@@ -1,7 +1,7 @@
 <configuration version="37">
-    <folder id="default" label="Default Folder" path="C:\Users\gusta\Sync" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
+    <folder id="default" label="Default Folder" path="C:\Users\Leo\Sync" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
         <filesystemType>basic</filesystemType>
-        <device id="EC5URQR-6M4EMT6-PLULUHJ-7OYZ3Z7-XKHU6DB-67ZT3M3-Y2ZFMNM-C6LZGQR" introducedBy="">
+        <device id="FOLPXAB-7JNVS7D-RYUK5JK-5NTZONM-HJUBYAK-KHPN3OE-YR6UDPJ-SUILMAI" introducedBy="">
             <encryptionPassword></encryptionPassword>
         </device>
         <minDiskFree unit="%">1</minDiskFree>
@@ -40,7 +40,7 @@
             <maxTotalSize>4096</maxTotalSize>
         </xattrFilter>
     </folder>
-    <device id="EC5URQR-6M4EMT6-PLULUHJ-7OYZ3Z7-XKHU6DB-67ZT3M3-Y2ZFMNM-C6LZGQR" name="LAPTOP-OQQDAMLV" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="">
+    <device id="FOLPXAB-7JNVS7D-RYUK5JK-5NTZONM-HJUBYAK-KHPN3OE-YR6UDPJ-SUILMAI" name="DESKTOP-G15GNSB" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="">
         <address>dynamic</address>
         <paused>false</paused>
         <autoAcceptFolders>false</autoAcceptFolders>
@@ -53,7 +53,7 @@
     </device>
     <gui enabled="true" tls="false" debugging="false" sendBasicAuthPrompt="false">
         <address>127.0.0.1:8384</address>
-        <apikey>LeU9j7acRfnipbawdHnUpc9YakuGzMDp</apikey>
+        <apikey>xDH3GSegxPgGiP73eJM9u6tN6XivFnh9</apikey>
         <theme>default</theme>
     </gui>
     <ldap></ldap>
@@ -74,9 +74,9 @@
         <natLeaseMinutes>60</natLeaseMinutes>
         <natRenewalMinutes>30</natRenewalMinutes>
         <natTimeoutSeconds>10</natTimeoutSeconds>
-        <urAccepted>3</urAccepted>
+        <urAccepted>0</urAccepted>
         <urSeen>0</urSeen>
-        <urUniqueID>TfcAp9dD</urUniqueID>
+        <urUniqueID></urUniqueID>
         <urURL>https://data.syncthing.net/newdata</urURL>
         <urPostInsecurely>false</urPostInsecurely>
         <urInitialDelayS>1800</urInitialDelayS>
@@ -116,7 +116,7 @@
     <defaults>
         <folder id="" label="" path="~" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
             <filesystemType>basic</filesystemType>
-            <device id="EC5URQR-6M4EMT6-PLULUHJ-7OYZ3Z7-XKHU6DB-67ZT3M3-Y2ZFMNM-C6LZGQR" introducedBy="">
+            <device id="FOLPXAB-7JNVS7D-RYUK5JK-5NTZONM-HJUBYAK-KHPN3OE-YR6UDPJ-SUILMAI" introducedBy="">
                 <encryptionPassword></encryptionPassword>
             </device>
             <minDiskFree unit="%">1</minDiskFree>
