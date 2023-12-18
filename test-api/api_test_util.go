@@ -130,12 +130,12 @@ func CheckServerHealth(url string) bool {
 }
 
 // Function for calling GET on the provided url and returning the decoded json.
-func MakeGetRequest(apiKey, url string) (*http.Response, error) {
+func MakeHttpRequest(method, apiKey, url string) (*http.Response, error) {
 	// Get a HTTP Client to make calls from.
 	client := &http.Client{}
 
 	// Create a new HTTP request to send from the HTTP client.
-	request, err := http.NewRequest("GET", url, nil)
+	request, err := http.NewRequest(method, url, nil)
 	if err != nil {
 		return nil, err
 	}

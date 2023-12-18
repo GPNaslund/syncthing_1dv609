@@ -71,7 +71,7 @@ SyncthingReady:
 	url := "http://" + address + "/rest/system/browse?current=testdata/"
 
 	// Get a list of the directories found by the REST API.
-	response, err := test_api.MakeGetRequest(apikey, url)
+	response, err := test_api.MakeHttpRequest("GET", apikey, url)
 	if err != nil {
 		t.Fatalf("Failed to browse: %s", err)
 	}
