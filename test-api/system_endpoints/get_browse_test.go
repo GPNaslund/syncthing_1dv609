@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"github.com/syncthing/syncthing/test-api"
 	"log"
-	"net/http"
 	"os"
 	"os/exec"
 	"reflect"
@@ -19,7 +18,7 @@ func Test_GetBrowse_ShouldReturn_ListOfDirectories(t *testing.T) {
 	homePath := "../api-test-home"
 
 	// Get address and apikey from running syncthing instance.
-	address, apikey, err := api_test.GetAddressAndApiKey(binPath, homePath)
+	address, apikey, err := test_api.GetAddressAndApiKey(binPath, homePath)
 	if err != nil {
 		t.Fatalf("Could not get address and apikey: %s", err)
 	}
@@ -43,7 +42,7 @@ func Test_GetBrowse_ShouldReturn_ListOfDirectories(t *testing.T) {
 	}()
 
 	// Setup REST API url to call
-	healthCheckUrl := "http://" + address
+	baseURL := "http://" + address
 
 	// Timeout set for when we stop checking if syncthing has started.
 	timeout := time.After(30 * time.Second)
@@ -57,7 +56,7 @@ func Test_GetBrowse_ShouldReturn_ListOfDirectories(t *testing.T) {
 			t.Fatal("Syncthing startup took to long")
 		// If timeout has not passed, check if syncthing is running for each tick.
 		case <-tick:
-			if api_test.CheckServerHealth(healthCheckUrl) {
+			if test_api.CheckServerHealth(baseURL) {
 				t.Log("Syncthing is running..")
 				// Label for the actual test. => Start the API testing logic.
 				goto SyncthingReady
@@ -72,9 +71,17 @@ SyncthingReady:
 	url := "http://" + address + "/rest/system/browse?current=testdata/"
 
 	// Get a list of the directories found by the REST API.
-	resultDirectories, err := get_browse(apikey, url)
+	response, err := test_api.MakeGetRequest(apikey, url)
 	if err != nil {
 		t.Fatalf("Failed to browse: %s", err)
+	}
+
+	defer response.Body.Close()
+
+	var resultDirectories []string
+
+	if err := json.NewDecoder(response.Body).Decode(&resultDirectories); err != nil {
+		t.Fatalf("Failed to decode response: %v", err)
 	}
 
 	// Corresponds to the folder structure inside system_endpoints/testdata/
@@ -101,35 +108,4 @@ SyncthingReady:
 	if !reflect.DeepEqual(normalizedResultDirectories, normalizedExpectedDirectories) {
 		t.Errorf("Expected %s, got %s", normalizedExpectedDirectories, normalizedResultDirectories)
 	}
-}
-
-// Function for calling GET on the provided url and returning the result.
-func get_browse(apiKey, url string) ([]string, error) {
-	// Get a HTTP Client to make calls from.
-	client := &http.Client{}
-
-	// Create a new HTTP request to send from the HTTP client.
-	request, err := http.NewRequest("GET", url, nil)
-	if err != nil {
-		return nil, err
-	}
-
-	// Sets the API key
-	request.Header.Set("X-API-Key", apiKey)
-
-	// Perform the GET request to provided url with provided api key.
-	response, err := client.Do(request)
-	if err != nil {
-		return nil, err
-	}
-	// Close the response body when the function is done.
-	defer response.Body.Close()
-
-	var resultDirectories []string
-	// Decode the json response body
-	responseDecoded := json.NewDecoder(response.Body).Decode(&resultDirectories)
-	if responseDecoded != nil {
-		return nil, err
-	}
-	return resultDirectories, nil
 }

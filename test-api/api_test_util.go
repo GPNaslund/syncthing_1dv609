@@ -1,4 +1,4 @@
-package api_test
+package test_api
 
 import (
 	"encoding/json"
@@ -127,4 +127,27 @@ func CheckServerHealth(url string) bool {
 
 	status, ok := result["status"]
 	return ok && status == "OK"
+}
+
+// Function for calling GET on the provided url and returning the decoded json.
+func MakeGetRequest(apiKey, url string) (*http.Response, error) {
+	// Get a HTTP Client to make calls from.
+	client := &http.Client{}
+
+	// Create a new HTTP request to send from the HTTP client.
+	request, err := http.NewRequest("GET", url, nil)
+	if err != nil {
+		return nil, err
+	}
+
+	// Sets the API key
+	request.Header.Set("X-API-Key", apiKey)
+
+	// Perform the GET request to provided url with provided api key.
+	response, err := client.Do(request)
+	if err != nil {
+		return nil, err
+	}
+
+	return response, nil
 }

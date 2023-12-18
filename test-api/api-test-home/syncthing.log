@@ -245,3 +245,143 @@
 [EC5UR] 2023/12/16 23:41:16 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
 [EC5UR] 2023/12/16 23:41:16 INFO: TCP listener ([::]:22000) starting
 [EC5UR] 2023/12/16 23:41:16 INFO: QUIC listener ([::]:22000) starting
+[start] 2023/12/17 23:28:02 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/17 23:28:02 INFO: Automatic upgrade is always enabled for candidate releases.
+[EC5UR] 2023/12/17 23:28:03 INFO: My ID: EC5URQR-6M4EMT6-PLULUHJ-7OYZ3Z7-XKHU6DB-67ZT3M3-Y2ZFMNM-C6LZGQR
+[EC5UR] 2023/12/17 23:28:04 INFO: Single thread SHA256 performance is 1878 MB/s using minio/sha256-simd (1871 MB/s using crypto/sha256).
+[EC5UR] 2023/12/17 23:28:04 INFO: Hashing performance is 1111.50 MB/s
+[EC5UR] 2023/12/17 23:28:04 INFO: Overall send rate is unlimited, receive rate is unlimited
+[EC5UR] 2023/12/17 23:28:04 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[EC5UR] 2023/12/17 23:28:04 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/17 23:28:04 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/17 23:28:04 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/17 23:28:04 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[EC5UR] 2023/12/17 23:28:04 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[EC5UR] 2023/12/17 23:28:04 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[EC5UR] 2023/12/17 23:28:04 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[EC5UR] 2023/12/17 23:28:04 INFO: GUI and API listening on 127.0.0.1:8384
+[EC5UR] 2023/12/17 23:28:04 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[EC5UR] 2023/12/17 23:28:04 INFO: My name is "LAPTOP-OQQDAMLV"
+[EC5UR] 2023/12/17 23:28:04 INFO: QUIC listener ([::]:22000) starting
+[EC5UR] 2023/12/17 23:28:04 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[EC5UR] 2023/12/17 23:28:04 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/18 13:22:16 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/18 13:22:16 INFO: Automatic upgrade is always enabled for candidate releases.
+[EC5UR] 2023/12/18 13:22:17 INFO: My ID: EC5URQR-6M4EMT6-PLULUHJ-7OYZ3Z7-XKHU6DB-67ZT3M3-Y2ZFMNM-C6LZGQR
+[EC5UR] 2023/12/18 13:22:18 INFO: Single thread SHA256 performance is 1785 MB/s using minio/sha256-simd (1758 MB/s using crypto/sha256).
+[EC5UR] 2023/12/18 13:22:19 INFO: Hashing performance is 1081.76 MB/s
+[EC5UR] 2023/12/18 13:22:19 INFO: Overall send rate is unlimited, receive rate is unlimited
+[EC5UR] 2023/12/18 13:22:19 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[EC5UR] 2023/12/18 13:22:19 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:22:19 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:22:19 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:22:19 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[EC5UR] 2023/12/18 13:22:19 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[EC5UR] 2023/12/18 13:22:19 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[EC5UR] 2023/12/18 13:22:19 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[EC5UR] 2023/12/18 13:22:19 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[EC5UR] 2023/12/18 13:22:19 INFO: GUI and API listening on 127.0.0.1:8384
+[EC5UR] 2023/12/18 13:22:19 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[EC5UR] 2023/12/18 13:22:19 INFO: My name is "LAPTOP-OQQDAMLV"
+[EC5UR] 2023/12/18 13:22:19 INFO: TCP listener ([::]:22000) starting
+[EC5UR] 2023/12/18 13:22:19 INFO: QUIC listener ([::]:22000) starting
+[start] 2023/12/18 13:26:41 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/18 13:26:41 INFO: Automatic upgrade is always enabled for candidate releases.
+[EC5UR] 2023/12/18 13:26:41 INFO: My ID: EC5URQR-6M4EMT6-PLULUHJ-7OYZ3Z7-XKHU6DB-67ZT3M3-Y2ZFMNM-C6LZGQR
+[EC5UR] 2023/12/18 13:26:42 INFO: Single thread SHA256 performance is 1876 MB/s using minio/sha256-simd (1859 MB/s using crypto/sha256).
+[EC5UR] 2023/12/18 13:26:42 INFO: Hashing performance is 1122.48 MB/s
+[EC5UR] 2023/12/18 13:26:42 INFO: Overall send rate is unlimited, receive rate is unlimited
+[EC5UR] 2023/12/18 13:26:42 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:26:42 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:26:42 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[EC5UR] 2023/12/18 13:26:42 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:26:42 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[EC5UR] 2023/12/18 13:26:42 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[EC5UR] 2023/12/18 13:26:42 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[EC5UR] 2023/12/18 13:26:42 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[EC5UR] 2023/12/18 13:26:42 INFO: GUI and API listening on 127.0.0.1:8384
+[EC5UR] 2023/12/18 13:26:42 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[EC5UR] 2023/12/18 13:26:42 INFO: My name is "LAPTOP-OQQDAMLV"
+[EC5UR] 2023/12/18 13:26:42 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[EC5UR] 2023/12/18 13:26:42 INFO: TCP listener ([::]:22000) starting
+[EC5UR] 2023/12/18 13:26:42 INFO: QUIC listener ([::]:22000) starting
+[start] 2023/12/18 13:33:26 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/18 13:33:26 INFO: Automatic upgrade is always enabled for candidate releases.
+[EC5UR] 2023/12/18 13:33:30 INFO: My ID: EC5URQR-6M4EMT6-PLULUHJ-7OYZ3Z7-XKHU6DB-67ZT3M3-Y2ZFMNM-C6LZGQR
+[EC5UR] 2023/12/18 13:33:31 INFO: Single thread SHA256 performance is 1842 MB/s using minio/sha256-simd (1838 MB/s using crypto/sha256).
+[EC5UR] 2023/12/18 13:33:31 INFO: Hashing performance is 1098.19 MB/s
+[EC5UR] 2023/12/18 13:33:31 INFO: Overall send rate is unlimited, receive rate is unlimited
+[EC5UR] 2023/12/18 13:33:31 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[EC5UR] 2023/12/18 13:33:31 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[EC5UR] 2023/12/18 13:33:31 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:33:31 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:33:31 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:33:31 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[EC5UR] 2023/12/18 13:33:31 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[EC5UR] 2023/12/18 13:33:31 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[EC5UR] 2023/12/18 13:33:31 INFO: GUI and API listening on 127.0.0.1:8384
+[EC5UR] 2023/12/18 13:33:31 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[EC5UR] 2023/12/18 13:33:31 INFO: My name is "LAPTOP-OQQDAMLV"
+[EC5UR] 2023/12/18 13:33:31 INFO: TCP listener ([::]:22000) starting
+[EC5UR] 2023/12/18 13:33:31 INFO: QUIC listener ([::]:22000) starting
+[EC5UR] 2023/12/18 13:33:31 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[start] 2023/12/18 13:33:56 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/18 13:33:56 INFO: Automatic upgrade is always enabled for candidate releases.
+[EC5UR] 2023/12/18 13:33:56 INFO: My ID: EC5URQR-6M4EMT6-PLULUHJ-7OYZ3Z7-XKHU6DB-67ZT3M3-Y2ZFMNM-C6LZGQR
+[EC5UR] 2023/12/18 13:33:57 INFO: Single thread SHA256 performance is 1865 MB/s using minio/sha256-simd (1829 MB/s using crypto/sha256).
+[EC5UR] 2023/12/18 13:33:57 INFO: Hashing performance is 1091.10 MB/s
+[EC5UR] 2023/12/18 13:33:57 INFO: Overall send rate is unlimited, receive rate is unlimited
+[EC5UR] 2023/12/18 13:33:57 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[EC5UR] 2023/12/18 13:33:57 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[EC5UR] 2023/12/18 13:33:57 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:33:57 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:33:57 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:33:57 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[EC5UR] 2023/12/18 13:33:57 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[EC5UR] 2023/12/18 13:33:57 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[EC5UR] 2023/12/18 13:33:57 INFO: GUI and API listening on 127.0.0.1:8384
+[EC5UR] 2023/12/18 13:33:57 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[EC5UR] 2023/12/18 13:33:57 INFO: My name is "LAPTOP-OQQDAMLV"
+[EC5UR] 2023/12/18 13:33:57 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[EC5UR] 2023/12/18 13:33:57 INFO: TCP listener ([::]:22000) starting
+[EC5UR] 2023/12/18 13:33:57 INFO: QUIC listener ([::]:22000) starting
+[start] 2023/12/18 13:36:38 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/18 13:36:38 INFO: Automatic upgrade is always enabled for candidate releases.
+[EC5UR] 2023/12/18 13:36:38 INFO: My ID: EC5URQR-6M4EMT6-PLULUHJ-7OYZ3Z7-XKHU6DB-67ZT3M3-Y2ZFMNM-C6LZGQR
+[EC5UR] 2023/12/18 13:36:39 INFO: Single thread SHA256 performance is 1799 MB/s using crypto/sha256 (1798 MB/s using minio/sha256-simd).
+[EC5UR] 2023/12/18 13:36:39 INFO: Hashing performance is 1052.02 MB/s
+[EC5UR] 2023/12/18 13:36:39 INFO: Overall send rate is unlimited, receive rate is unlimited
+[EC5UR] 2023/12/18 13:36:39 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[EC5UR] 2023/12/18 13:36:39 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[EC5UR] 2023/12/18 13:36:39 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:36:39 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:36:39 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:36:39 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[EC5UR] 2023/12/18 13:36:39 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[EC5UR] 2023/12/18 13:36:39 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[EC5UR] 2023/12/18 13:36:39 INFO: GUI and API listening on 127.0.0.1:8384
+[EC5UR] 2023/12/18 13:36:39 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[EC5UR] 2023/12/18 13:36:39 INFO: My name is "LAPTOP-OQQDAMLV"
+[EC5UR] 2023/12/18 13:36:39 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[EC5UR] 2023/12/18 13:36:39 INFO: QUIC listener ([::]:22000) starting
+[EC5UR] 2023/12/18 13:36:39 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/18 13:42:57 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/18 13:42:57 INFO: Automatic upgrade is always enabled for candidate releases.
+[EC5UR] 2023/12/18 13:42:58 INFO: My ID: EC5URQR-6M4EMT6-PLULUHJ-7OYZ3Z7-XKHU6DB-67ZT3M3-Y2ZFMNM-C6LZGQR
+[EC5UR] 2023/12/18 13:42:59 INFO: Single thread SHA256 performance is 1876 MB/s using crypto/sha256 (1855 MB/s using minio/sha256-simd).
+[EC5UR] 2023/12/18 13:43:00 INFO: Hashing performance is 1105.52 MB/s
+[EC5UR] 2023/12/18 13:43:00 INFO: Overall send rate is unlimited, receive rate is unlimited
+[EC5UR] 2023/12/18 13:43:00 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[EC5UR] 2023/12/18 13:43:00 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[EC5UR] 2023/12/18 13:43:00 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:43:00 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:43:00 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[EC5UR] 2023/12/18 13:43:00 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[EC5UR] 2023/12/18 13:43:00 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[EC5UR] 2023/12/18 13:43:00 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[EC5UR] 2023/12/18 13:43:00 INFO: GUI and API listening on 127.0.0.1:8384
+[EC5UR] 2023/12/18 13:43:00 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[EC5UR] 2023/12/18 13:43:00 INFO: My name is "LAPTOP-OQQDAMLV"
+[EC5UR] 2023/12/18 13:43:00 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[EC5UR] 2023/12/18 13:43:00 INFO: QUIC listener ([::]:22000) starting
+[EC5UR] 2023/12/18 13:43:00 INFO: TCP listener ([::]:22000) starting
