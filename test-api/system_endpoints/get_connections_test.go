@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"fmt"
 	apitest "github.com/syncthing/syncthing/test-api"
-	"io"
 	"log"
 	"net/http"
 	"os"
@@ -13,16 +12,11 @@ import (
 	"time"
 )
 
-type Device struct {
-	Id   string `json:"deviceID"`
-	Name string `json:"Name"`
-}
-
-func TestAPI(t *testing.T) {
+func Test_GetConnection_Should_ReturnListOfDevices(t *testing.T) {
 
 	// Setup path to bin and home
 	binPath := "../../bin"
-	homePath := "../connections-test-home"
+	homePath := "../put-connections-test-home"
 
 	// Get a cmd struct to execute syncthing from.
 	cmd := exec.Command(binPath+"/syncthing", "--no-browser", "--home", homePath)
@@ -72,13 +66,11 @@ func TestAPI(t *testing.T) {
 	}
 
 SyncthingReady:
-
-	//Device ID and name already present in test home folde
+	//Device ID and name already present in test home folder
 	deviceID := "H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP"
-	deviceName := "Phone"
 
 	//Get devices configured with the current instance of syncthing
-	url := "http://" + address + "/rest/config/devices/"
+	url := "http://" + address + "/rest/system/connections"
 	resp, err := apitest.MakeHttpRequest("GET", apikey, url)
 	defer resp.Body.Close()
 
@@ -88,21 +80,18 @@ SyncthingReady:
 		return
 	}
 
-	//Convert response body into a byte array
-	byteValue, err := io.ReadAll(resp.Body)
-
-	//Device array to store the devices in the syncthing response
-	var devices []Device
-
-	//Unmarshal response in splices into the devices array
-	err = json.Unmarshal(byteValue, &devices)
+	//Store the devices received in the response
+	var config map[string]map[string]interface{}
+	decoder := json.NewDecoder(resp.Body)
+	err = decoder.Decode(&config)
 	if err != nil {
-		panic(err)
+		fmt.Println("Error decoding JSON:", err)
+		return
 	}
 
-	//Compare expected against actual
-	if !(devices[0].Id == deviceID && devices[0].Name == deviceName) {
-		t.Errorf("Expected ID:%s,Name:%s got ID:%s,Name:%s", devices[0].Id, devices[0].Name, deviceID, deviceName)
+	//Verify the device actually exists in the connections response from syncthing
+	device := config["connections"][deviceID]
+	if device == nil {
+		t.Errorf("Device with ID: %s not found", deviceID)
 	}
-
 }

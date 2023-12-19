@@ -138,3 +138,25 @@
 [FOLPX] 2023/12/18 16:42:27 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
 [FOLPX] 2023/12/18 16:42:27 INFO: TCP listener ([::]:22000) starting
 [FOLPX] 2023/12/18 16:42:27 INFO: QUIC listener ([::]:22000) starting
+[start] 2023/12/19 14:19:05 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[FOLPX] 2023/12/19 14:19:06 INFO: My ID: FOLPXAB-7JNVS7D-RYUK5JK-5NTZONM-HJUBYAK-KHPN3OE-YR6UDPJ-SUILMAI
+[FOLPX] 2023/12/19 14:19:06 INFO: Single thread SHA256 performance is 289 MB/s using crypto/sha256 (282 MB/s using minio/sha256-simd).
+[FOLPX] 2023/12/19 14:19:07 INFO: Hashing performance is 254.86 MB/s
+[FOLPX] 2023/12/19 14:19:07 INFO: Overall send rate is unlimited, receive rate is unlimited
+[FOLPX] 2023/12/19 14:19:07 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[FOLPX] 2023/12/19 14:19:07 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[FOLPX] 2023/12/19 14:19:07 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[FOLPX] 2023/12/19 14:19:07 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[FOLPX] 2023/12/19 14:19:07 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[FOLPX] 2023/12/19 14:19:07 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[FOLPX] 2023/12/19 14:19:07 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[FOLPX] 2023/12/19 14:19:07 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[FOLPX] 2023/12/19 14:19:07 INFO: GUI and API listening on 127.0.0.1:8384
+[FOLPX] 2023/12/19 14:19:07 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[FOLPX] 2023/12/19 14:19:07 INFO: My name is "DESKTOP-G15GNSB"
+[FOLPX] 2023/12/19 14:19:07 INFO: TCP listener ([::]:22000) starting
+[FOLPX] 2023/12/19 14:19:07 INFO: QUIC listener ([::]:22000) starting
+[start] 2023/12/19 14:19:09 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[start] 2023/12/19 14:19:09 WARNING: Error opening database: The process cannot access the file because it is being used by another process. (is another instance of Syncthing running?)
+[start] 2023/12/19 14:19:10 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[start] 2023/12/19 14:19:10 WARNING: Error opening database: The process cannot access the file because it is being used by another process. (is another instance of Syncthing running?)

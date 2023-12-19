@@ -1,0 +1,75 @@
+=============== Dec 19, 2023 (CET) ===============
+14:11:55.286853 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:11:55.290843 db@open opening
+14:11:55.291840 version@stat F·[] S·0B[] Sc·[]
+14:11:55.292837 db@janitor F·2 G·0
+14:11:55.292837 db@open done T·1.9949ms
+14:11:56.803392 memdb@flush N·47 S·1KiB
+14:11:56.805556 memdb@flush created L0@3 N·47 S·633B "\ndb..ion,v47":"\nla..eck,v1"
+14:11:56.805556 version@stat F·[1] S·633B[633B] Sc·[0.25]
+14:11:56.806101 memdb@flush committed F·1 T·2.7082ms
+14:11:56.806616 journal@remove removed @1
+14:11:56.806616 table@compaction range L-1 "":""
+14:11:56.806616 table@compaction L0·1 -> L1·0 S·633B Q·47
+14:11:56.808329 table@build created L1@4 N·5 S·244B "\ndb..ion,v47":"\nla..eck,v1"
+14:11:56.808329 version@stat F·[0 1] S·244B[0B 244B] Sc·[0.00 0.00]
+14:11:56.808847 table@compaction committed F~ S-389B Ke·0 D·42 T·2.2307ms
+14:11:56.809371 table@remove removed @3
+14:11:57.890023 db@close closing
+14:11:57.890134 db@close done T·110.7µs
+=============== Dec 19, 2023 (CET) ===============
+14:13:09.919498 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:13:09.920493 version@stat F·[0 1] S·244B[0B 244B] Sc·[0.00 0.00]
+14:13:09.920493 db@open opening
+14:13:09.920493 journal@recovery F·1
+14:13:09.921491 journal@recovery recovering @2
+14:13:09.925480 memdb@flush created L0@5 N·8 S·316B "\x04de..can,v55":"\npr..ion,v48"
+14:13:09.925480 version@stat F·[1 1] S·560B[316B 244B] Sc·[0.25 0.00]
+14:13:09.933460 db@janitor F·4 G·0
+14:13:09.933460 db@open done T·12.9668ms
+14:13:12.441691 db@close closing
+14:13:12.442688 db@close done T·997.2µs
+=============== Dec 19, 2023 (CET) ===============
+14:14:41.197497 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:14:41.197497 version@stat F·[1 1] S·560B[316B 244B] Sc·[0.25 0.00]
+14:14:41.197497 db@open opening
+14:14:41.197497 journal@recovery F·1
+14:14:41.198494 journal@recovery recovering @6
+14:14:41.200489 memdb@flush created L0@8 N·1 S·144B "\x04de..can,v57":"\x04de..can,v57"
+14:14:41.201486 version@stat F·[2 1] S·704B[460B 244B] Sc·[0.50 0.00]
+14:14:41.205476 db@janitor F·5 G·0
+14:14:41.205476 db@open done T·7.9786ms
+14:14:43.619666 db@close closing
+14:14:43.619666 db@close done T·0s
+=============== Dec 19, 2023 (CET) ===============
+14:16:48.222335 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:16:48.222851 version@stat F·[2 1] S·704B[460B 244B] Sc·[0.50 0.00]
+14:16:48.222851 db@open opening
+14:16:48.222851 journal@recovery F·1
+14:16:48.223885 journal@recovery recovering @9
+14:16:48.225984 memdb@flush created L0@11 N·1 S·144B "\x04de..can,v59":"\x04de..can,v59"
+14:16:48.226834 version@stat F·[3 1] S·848B[604B 244B] Sc·[0.75 0.00]
+14:16:48.231495 db@janitor F·6 G·0
+14:16:48.231495 db@open done T·8.6443ms
+14:16:50.651396 db@close closing
+14:16:50.653816 db@close done T·2.4206ms
+=============== Dec 19, 2023 (CET) ===============
+14:19:08.833372 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:19:08.833372 version@stat F·[3 1] S·848B[604B 244B] Sc·[0.75 0.00]
+14:19:08.833372 db@open opening
+14:19:08.833372 journal@recovery F·1
+14:19:08.835038 journal@recovery recovering @12
+14:19:08.836641 memdb@flush created L0@14 N·1 S·144B "\x04de..can,v61":"\x04de..can,v61"
+14:19:08.838552 version@stat F·[4 1] S·992B[748B 244B] Sc·[1.00 0.00]
+14:19:08.847856 db@janitor F·7 G·0
+14:19:08.847856 db@open done T·14.4847ms
+14:19:08.847856 table@compaction L0·4 -> L1·1 S·992B Q·62
+14:19:08.850712 table@build created L1@17 N·13 S·434B "\x04de..can,v61":"\npr..ion,v48"
+14:19:08.850712 version@stat F·[0 1] S·434B[0B 434B] Sc·[0.00 0.00]
+14:19:08.851238 table@compaction committed F-4 S-558B Ke·0 D·3 T·3.382ms
+14:19:08.851751 table@remove removed @11
+14:19:08.851751 table@remove removed @8
+14:19:08.852707 table@remove removed @5
+14:19:08.852707 table@remove removed @4
+14:19:11.366271 db@close closing
+14:19:11.366271 db@close done T·0s
