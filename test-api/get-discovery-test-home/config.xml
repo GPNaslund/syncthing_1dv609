@@ -270,7 +270,7 @@
         <numConnections>0</numConnections>
     </device>
     <gui enabled="true" tls="false" debugging="false">
-        <address>127.0.0.1:8384</address>
+        <address>192.168.0.30:8384</address>
         <user>leolito</user>
         <password>$2a$10$cEb0HPgxxG2GUcX67Rmex.372Sx9ri077aamSLS2P8w09oEaMmCk.</password>
         <apikey>DQFpvxnhyWKCgfkUYyM9qiNzw2Ph4U39</apikey>

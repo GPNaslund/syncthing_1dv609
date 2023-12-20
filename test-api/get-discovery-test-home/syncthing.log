@@ -1,108 +1,188 @@
-[start] 2023/12/20 10:47:00 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
-[7XYLG] 2023/12/20 10:47:01 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
-[start] 2023/12/20 10:47:25 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
-[7XYLG] 2023/12/20 10:47:25 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
-[7XYLG] 2023/12/20 10:47:26 INFO: Single thread SHA256 performance is 256 MB/s using crypto/sha256 (251 MB/s using minio/sha256-simd).
-[start] 2023/12/20 10:49:34 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
-[7XYLG] 2023/12/20 10:49:35 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
-[7XYLG] 2023/12/20 10:49:35 INFO: Single thread SHA256 performance is 254 MB/s using minio/sha256-simd (246 MB/s using crypto/sha256).
-[7XYLG] 2023/12/20 10:49:36 INFO: Hashing performance is 186.51 MB/s
-[7XYLG] 2023/12/20 10:49:36 INFO: Detected upgrade from v1.25.0 to v1.27.1
-[7XYLG] 2023/12/20 10:49:36 INFO: Overall send rate is unlimited, receive rate is unlimited
-[7XYLG] 2023/12/20 10:49:36 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
-[7XYLG] 2023/12/20 10:49:36 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
-[7XYLG] 2023/12/20 10:49:36 INFO: Ready to synchronize "WAVideos" (35xs8-89s0b) (sendreceive)
-[7XYLG] 2023/12/20 10:49:36 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
-[7XYLG] 2023/12/20 10:49:36 INFO: Failed initial scan of sendreceive folder "WAVideos" (35xs8-89s0b)
-[7XYLG] 2023/12/20 10:49:36 WARNING: Error on folder "WAVideos" (35xs8-89s0b): folder path missing
-[7XYLG] 2023/12/20 10:49:36 INFO: Ready to synchronize "SharedFolder" (dw423-ddwsi) (sendreceive)
-[7XYLG] 2023/12/20 10:49:36 INFO: Ready to synchronize "Camera" (le2113_94ng-photos) (sendreceive)
-[7XYLG] 2023/12/20 10:49:36 INFO: Ready to synchronize "WAPhotos" (wknvk-zj5ag) (sendreceive)
-[7XYLG] 2023/12/20 10:49:36 INFO: Failed initial scan of sendreceive folder "SharedFolder" (dw423-ddwsi)
-[7XYLG] 2023/12/20 10:49:36 WARNING: Error on folder "SharedFolder" (dw423-ddwsi): folder path missing
-[7XYLG] 2023/12/20 10:49:36 INFO: Failed initial scan of sendreceive folder "Camera" (le2113_94ng-photos)
-[7XYLG] 2023/12/20 10:49:36 WARNING: Error on folder "Camera" (le2113_94ng-photos): folder path missing
-[7XYLG] 2023/12/20 10:49:36 INFO: GUI and API listening on 127.0.0.1:8384
-[7XYLG] 2023/12/20 10:49:36 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
-[7XYLG] 2023/12/20 10:49:36 INFO: Failed initial scan of sendreceive folder "WAPhotos" (wknvk-zj5ag)
-[7XYLG] 2023/12/20 10:49:36 WARNING: Error on folder "WAPhotos" (wknvk-zj5ag): folder path missing
-[7XYLG] 2023/12/20 10:49:36 INFO: My name is "raspberrypi"
-[7XYLG] 2023/12/20 10:49:36 INFO: Device Y557KZH-I3QXO5R-XI3777Q-CXB6Q4Z-TDAZZMT-C6CSA26-UZIDQLM-DZ2FQQP is "Charmeleon_KLS" at [dynamic]
-[7XYLG] 2023/12/20 10:49:36 INFO: Device 2EECOHA-Q63TX7D-UTSVEDH-EDKXCFY-HN76YSI-675ZMBV-YEG4U5B-IS3QXAZ is "LE2113" at [dynamic]
-[7XYLG] 2023/12/20 10:49:36 INFO: Device 4EWKOHT-TAUY47D-UB4QPUZ-AKMRUUM-3GDCLB5-7O3BXTB-M2NZD3T-7ONUPAZ is "OP9" at [dynamic]
-[7XYLG] 2023/12/20 10:49:36 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 10:49:36 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 10:49:36 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 10:49:36 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 10:49:36 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 10:49:36 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 10:49:36 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
-[7XYLG] 2023/12/20 10:49:36 INFO: TCP listener ([::]:22000) starting
-[start] 2023/12/20 10:52:26 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
-[7XYLG] 2023/12/20 10:52:26 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
-[7XYLG] 2023/12/20 10:52:27 INFO: Single thread SHA256 performance is 242 MB/s using minio/sha256-simd (237 MB/s using crypto/sha256).
-[7XYLG] 2023/12/20 10:52:27 INFO: Hashing performance is 220.50 MB/s
-[7XYLG] 2023/12/20 10:52:27 INFO: Overall send rate is unlimited, receive rate is unlimited
-[7XYLG] 2023/12/20 10:52:27 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
-[7XYLG] 2023/12/20 10:52:27 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
-[7XYLG] 2023/12/20 10:52:27 INFO: Ready to synchronize "WAVideos" (35xs8-89s0b) (sendreceive)
-[7XYLG] 2023/12/20 10:52:27 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
-[7XYLG] 2023/12/20 10:52:27 INFO: Ready to synchronize "SharedFolder" (dw423-ddwsi) (sendreceive)
-[7XYLG] 2023/12/20 10:52:27 INFO: Ready to synchronize "Camera" (le2113_94ng-photos) (sendreceive)
-[7XYLG] 2023/12/20 10:52:27 INFO: Ready to synchronize "WAPhotos" (wknvk-zj5ag) (sendreceive)
-[7XYLG] 2023/12/20 10:52:27 INFO: Failed initial scan of sendreceive folder "WAVideos" (35xs8-89s0b)
-[7XYLG] 2023/12/20 10:52:27 WARNING: Error on folder "WAVideos" (35xs8-89s0b): folder path missing
-[7XYLG] 2023/12/20 10:52:27 INFO: TCP listener ([::]:22000) starting
-[7XYLG] 2023/12/20 10:52:27 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 10:52:27 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 10:52:27 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 10:52:27 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 10:52:27 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 10:52:27 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 10:52:27 INFO: Failed initial scan of sendreceive folder "Camera" (le2113_94ng-photos)
-[7XYLG] 2023/12/20 10:52:27 WARNING: Error on folder "Camera" (le2113_94ng-photos): folder path missing
-[7XYLG] 2023/12/20 10:52:27 INFO: Failed initial scan of sendreceive folder "SharedFolder" (dw423-ddwsi)
-[7XYLG] 2023/12/20 10:52:27 WARNING: Error on folder "SharedFolder" (dw423-ddwsi): folder path missing
-[7XYLG] 2023/12/20 10:52:27 INFO: GUI and API listening on 127.0.0.1:8384
-[7XYLG] 2023/12/20 10:52:27 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
-[7XYLG] 2023/12/20 10:52:27 INFO: My name is "raspberrypi"
-[7XYLG] 2023/12/20 10:52:27 INFO: Device 4EWKOHT-TAUY47D-UB4QPUZ-AKMRUUM-3GDCLB5-7O3BXTB-M2NZD3T-7ONUPAZ is "OP9" at [dynamic]
-[7XYLG] 2023/12/20 10:52:27 INFO: Device Y557KZH-I3QXO5R-XI3777Q-CXB6Q4Z-TDAZZMT-C6CSA26-UZIDQLM-DZ2FQQP is "Charmeleon_KLS" at [dynamic]
-[7XYLG] 2023/12/20 10:52:27 INFO: Device 2EECOHA-Q63TX7D-UTSVEDH-EDKXCFY-HN76YSI-675ZMBV-YEG4U5B-IS3QXAZ is "LE2113" at [dynamic]
-[7XYLG] 2023/12/20 10:52:27 INFO: Failed initial scan of sendreceive folder "WAPhotos" (wknvk-zj5ag)
-[7XYLG] 2023/12/20 10:52:27 WARNING: Error on folder "WAPhotos" (wknvk-zj5ag): folder path missing
-[7XYLG] 2023/12/20 10:52:27 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
-[start] 2023/12/20 11:16:29 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
-[7XYLG] 2023/12/20 11:16:29 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
-[7XYLG] 2023/12/20 11:16:30 INFO: Single thread SHA256 performance is 258 MB/s using minio/sha256-simd (254 MB/s using crypto/sha256).
-[7XYLG] 2023/12/20 11:16:30 INFO: Hashing performance is 225.37 MB/s
-[7XYLG] 2023/12/20 11:16:30 INFO: Overall send rate is unlimited, receive rate is unlimited
-[7XYLG] 2023/12/20 11:16:30 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
-[7XYLG] 2023/12/20 11:16:30 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
-[7XYLG] 2023/12/20 11:16:30 INFO: Ready to synchronize "WAVideos" (35xs8-89s0b) (sendreceive)
-[7XYLG] 2023/12/20 11:16:30 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
-[7XYLG] 2023/12/20 11:16:30 INFO: GUI and API listening on 127.0.0.1:8384
-[7XYLG] 2023/12/20 11:16:30 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
-[7XYLG] 2023/12/20 11:16:30 INFO: My name is "raspberrypi"
-[7XYLG] 2023/12/20 11:16:30 INFO: Device Y557KZH-I3QXO5R-XI3777Q-CXB6Q4Z-TDAZZMT-C6CSA26-UZIDQLM-DZ2FQQP is "Charmeleon_KLS" at [dynamic]
-[7XYLG] 2023/12/20 11:16:30 INFO: Device 2EECOHA-Q63TX7D-UTSVEDH-EDKXCFY-HN76YSI-675ZMBV-YEG4U5B-IS3QXAZ is "LE2113" at [dynamic]
-[7XYLG] 2023/12/20 11:16:30 INFO: Device 4EWKOHT-TAUY47D-UB4QPUZ-AKMRUUM-3GDCLB5-7O3BXTB-M2NZD3T-7ONUPAZ is "OP9" at [dynamic]
-[7XYLG] 2023/12/20 11:16:30 INFO: Ready to synchronize "SharedFolder" (dw423-ddwsi) (sendreceive)
-[7XYLG] 2023/12/20 11:16:30 INFO: Ready to synchronize "Camera" (le2113_94ng-photos) (sendreceive)
-[7XYLG] 2023/12/20 11:16:30 INFO: Ready to synchronize "WAPhotos" (wknvk-zj5ag) (sendreceive)
-[7XYLG] 2023/12/20 11:16:30 INFO: Failed initial scan of sendreceive folder "WAVideos" (35xs8-89s0b)
-[7XYLG] 2023/12/20 11:16:30 WARNING: Error on folder "WAVideos" (35xs8-89s0b): folder path missing
-[7XYLG] 2023/12/20 11:16:30 INFO: Failed initial scan of sendreceive folder "SharedFolder" (dw423-ddwsi)
-[7XYLG] 2023/12/20 11:16:30 WARNING: Error on folder "SharedFolder" (dw423-ddwsi): folder path missing
-[7XYLG] 2023/12/20 11:16:30 INFO: Failed initial scan of sendreceive folder "WAPhotos" (wknvk-zj5ag)
-[7XYLG] 2023/12/20 11:16:30 WARNING: Error on folder "WAPhotos" (wknvk-zj5ag): folder path missing
-[7XYLG] 2023/12/20 11:16:30 INFO: Failed initial scan of sendreceive folder "Camera" (le2113_94ng-photos)
-[7XYLG] 2023/12/20 11:16:30 WARNING: Error on folder "Camera" (le2113_94ng-photos): folder path missing
-[7XYLG] 2023/12/20 11:16:30 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 11:16:30 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
-[7XYLG] 2023/12/20 11:16:30 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 11:16:30 INFO: TCP listener ([::]:22000) starting
-[7XYLG] 2023/12/20 11:16:30 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 11:16:30 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 11:16:30 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
-[7XYLG] 2023/12/20 11:16:30 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[start] 2023/12/20 13:26:21 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:26:21 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:26:22 INFO: Single thread SHA256 performance is 301 MB/s using minio/sha256-simd (289 MB/s using crypto/sha256).
+[7XYLG] 2023/12/20 13:26:22 INFO: Hashing performance is 261.08 MB/s
+[7XYLG] 2023/12/20 13:26:22 INFO: Detected upgrade from v1.25.0 to v1.27.1
+[7XYLG] 2023/12/20 13:26:22 INFO: Overall send rate is unlimited, receive rate is unlimited
+[7XYLG] 2023/12/20 13:26:22 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[7XYLG] 2023/12/20 13:26:22 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[7XYLG] 2023/12/20 13:26:22 INFO: Ready to synchronize "WAVideos" (35xs8-89s0b) (sendreceive)
+[7XYLG] 2023/12/20 13:26:22 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[7XYLG] 2023/12/20 13:26:22 INFO: Ready to synchronize "SharedFolder" (dw423-ddwsi) (sendreceive)
+[7XYLG] 2023/12/20 13:26:22 INFO: Ready to synchronize "Camera" (le2113_94ng-photos) (sendreceive)
+[7XYLG] 2023/12/20 13:26:22 INFO: GUI and API listening on 127.0.0.1:8384
+[7XYLG] 2023/12/20 13:26:22 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[7XYLG] 2023/12/20 13:26:22 INFO: My name is "raspberrypi"
+[7XYLG] 2023/12/20 13:26:22 INFO: Device 2EECOHA-Q63TX7D-UTSVEDH-EDKXCFY-HN76YSI-675ZMBV-YEG4U5B-IS3QXAZ is "LE2113" at [dynamic]
+[7XYLG] 2023/12/20 13:26:22 INFO: Device 4EWKOHT-TAUY47D-UB4QPUZ-AKMRUUM-3GDCLB5-7O3BXTB-M2NZD3T-7ONUPAZ is "OP9" at [dynamic]
+[7XYLG] 2023/12/20 13:26:22 INFO: Device Y557KZH-I3QXO5R-XI3777Q-CXB6Q4Z-TDAZZMT-C6CSA26-UZIDQLM-DZ2FQQP is "Charmeleon_KLS" at [dynamic]
+[7XYLG] 2023/12/20 13:26:22 INFO: Ready to synchronize "WAPhotos" (wknvk-zj5ag) (sendreceive)
+[7XYLG] 2023/12/20 13:26:22 INFO: Failed initial scan of sendreceive folder "WAVideos" (35xs8-89s0b)
+[7XYLG] 2023/12/20 13:26:22 WARNING: Error on folder "WAVideos" (35xs8-89s0b): folder path missing
+[7XYLG] 2023/12/20 13:26:22 INFO: Failed initial scan of sendreceive folder "SharedFolder" (dw423-ddwsi)
+[7XYLG] 2023/12/20 13:26:22 WARNING: Error on folder "SharedFolder" (dw423-ddwsi): folder path missing
+[7XYLG] 2023/12/20 13:26:22 INFO: Failed initial scan of sendreceive folder "Camera" (le2113_94ng-photos)
+[7XYLG] 2023/12/20 13:26:22 WARNING: Error on folder "Camera" (le2113_94ng-photos): folder path missing
+[7XYLG] 2023/12/20 13:26:22 INFO: Failed initial scan of sendreceive folder "WAPhotos" (wknvk-zj5ag)
+[7XYLG] 2023/12/20 13:26:22 WARNING: Error on folder "WAPhotos" (wknvk-zj5ag): folder path missing
+[7XYLG] 2023/12/20 13:26:22 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:26:22 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:26:22 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:26:22 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:26:22 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:26:22 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:26:22 INFO: TCP listener ([::]:22000) starting
+[7XYLG] 2023/12/20 13:26:22 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[start] 2023/12/20 13:26:46 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:26:46 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:26:47 INFO: Single thread SHA256 performance is 309 MB/s using minio/sha256-simd (294 MB/s using crypto/sha256).
+[7XYLG] 2023/12/20 13:26:48 INFO: Hashing performance is 262.04 MB/s
+[7XYLG] 2023/12/20 13:26:48 INFO: Overall send rate is unlimited, receive rate is unlimited
+[7XYLG] 2023/12/20 13:26:48 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[7XYLG] 2023/12/20 13:26:48 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[7XYLG] 2023/12/20 13:26:48 INFO: Ready to synchronize "WAVideos" (35xs8-89s0b) (sendreceive)
+[7XYLG] 2023/12/20 13:26:48 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[7XYLG] 2023/12/20 13:26:48 INFO: Ready to synchronize "SharedFolder" (dw423-ddwsi) (sendreceive)
+[7XYLG] 2023/12/20 13:26:48 INFO: Ready to synchronize "Camera" (le2113_94ng-photos) (sendreceive)
+[7XYLG] 2023/12/20 13:26:48 INFO: Ready to synchronize "WAPhotos" (wknvk-zj5ag) (sendreceive)
+[7XYLG] 2023/12/20 13:26:48 INFO: Failed initial scan of sendreceive folder "WAVideos" (35xs8-89s0b)
+[7XYLG] 2023/12/20 13:26:48 WARNING: Error on folder "WAVideos" (35xs8-89s0b): folder path missing
+[7XYLG] 2023/12/20 13:26:48 INFO: Failed initial scan of sendreceive folder "SharedFolder" (dw423-ddwsi)
+[7XYLG] 2023/12/20 13:26:48 WARNING: Error on folder "SharedFolder" (dw423-ddwsi): folder path missing
+[7XYLG] 2023/12/20 13:26:48 INFO: Failed initial scan of sendreceive folder "Camera" (le2113_94ng-photos)
+[7XYLG] 2023/12/20 13:26:48 WARNING: Error on folder "Camera" (le2113_94ng-photos): folder path missing
+[7XYLG] 2023/12/20 13:26:48 INFO: Failed initial scan of sendreceive folder "WAPhotos" (wknvk-zj5ag)
+[7XYLG] 2023/12/20 13:26:48 WARNING: Error on folder "WAPhotos" (wknvk-zj5ag): folder path missing
+[7XYLG] 2023/12/20 13:26:48 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:26:48 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:26:48 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:26:48 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:26:48 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:26:48 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:26:48 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[7XYLG] 2023/12/20 13:26:48 INFO: GUI and API listening on 127.0.0.1:8384
+[7XYLG] 2023/12/20 13:26:48 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[7XYLG] 2023/12/20 13:26:48 INFO: My name is "raspberrypi"
+[7XYLG] 2023/12/20 13:26:48 INFO: Device 2EECOHA-Q63TX7D-UTSVEDH-EDKXCFY-HN76YSI-675ZMBV-YEG4U5B-IS3QXAZ is "LE2113" at [dynamic]
+[7XYLG] 2023/12/20 13:26:48 INFO: Device 4EWKOHT-TAUY47D-UB4QPUZ-AKMRUUM-3GDCLB5-7O3BXTB-M2NZD3T-7ONUPAZ is "OP9" at [dynamic]
+[7XYLG] 2023/12/20 13:26:48 INFO: Device Y557KZH-I3QXO5R-XI3777Q-CXB6Q4Z-TDAZZMT-C6CSA26-UZIDQLM-DZ2FQQP is "Charmeleon_KLS" at [dynamic]
+[7XYLG] 2023/12/20 13:26:48 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/20 13:27:09 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:27:09 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:27:10 INFO: Single thread SHA256 performance is 321 MB/s using minio/sha256-simd (295 MB/s using crypto/sha256).
+[7XYLG] 2023/12/20 13:27:11 INFO: Hashing performance is 252.89 MB/s
+[7XYLG] 2023/12/20 13:27:11 INFO: Overall send rate is unlimited, receive rate is unlimited
+[7XYLG] 2023/12/20 13:27:11 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[7XYLG] 2023/12/20 13:27:11 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[7XYLG] 2023/12/20 13:27:11 INFO: Ready to synchronize "WAVideos" (35xs8-89s0b) (sendreceive)
+[7XYLG] 2023/12/20 13:27:11 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:27:11 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:27:11 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[7XYLG] 2023/12/20 13:27:11 INFO: GUI and API listening on 127.0.0.1:8384
+[7XYLG] 2023/12/20 13:27:11 INFO: Failed initial scan of sendreceive folder "WAVideos" (35xs8-89s0b)
+[7XYLG] 2023/12/20 13:27:11 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[7XYLG] 2023/12/20 13:27:11 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:27:11 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:27:11 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:27:11 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:27:11 INFO: Ready to synchronize "SharedFolder" (dw423-ddwsi) (sendreceive)
+[7XYLG] 2023/12/20 13:27:11 INFO: My name is "raspberrypi"
+[7XYLG] 2023/12/20 13:27:11 INFO: Device Y557KZH-I3QXO5R-XI3777Q-CXB6Q4Z-TDAZZMT-C6CSA26-UZIDQLM-DZ2FQQP is "Charmeleon_KLS" at [dynamic]
+[7XYLG] 2023/12/20 13:27:11 INFO: Device 2EECOHA-Q63TX7D-UTSVEDH-EDKXCFY-HN76YSI-675ZMBV-YEG4U5B-IS3QXAZ is "LE2113" at [dynamic]
+[7XYLG] 2023/12/20 13:27:11 INFO: Device 4EWKOHT-TAUY47D-UB4QPUZ-AKMRUUM-3GDCLB5-7O3BXTB-M2NZD3T-7ONUPAZ is "OP9" at [dynamic]
+[7XYLG] 2023/12/20 13:27:11 WARNING: Error on folder "WAVideos" (35xs8-89s0b): folder path missing
+[7XYLG] 2023/12/20 13:27:11 INFO: Failed initial scan of sendreceive folder "SharedFolder" (dw423-ddwsi)
+[7XYLG] 2023/12/20 13:27:11 WARNING: Error on folder "SharedFolder" (dw423-ddwsi): folder path missing
+[7XYLG] 2023/12/20 13:27:11 INFO: Ready to synchronize "Camera" (le2113_94ng-photos) (sendreceive)
+[7XYLG] 2023/12/20 13:27:11 INFO: Ready to synchronize "WAPhotos" (wknvk-zj5ag) (sendreceive)
+[7XYLG] 2023/12/20 13:27:11 INFO: Failed initial scan of sendreceive folder "Camera" (le2113_94ng-photos)
+[7XYLG] 2023/12/20 13:27:11 WARNING: Error on folder "Camera" (le2113_94ng-photos): folder path missing
+[7XYLG] 2023/12/20 13:27:11 INFO: Failed initial scan of sendreceive folder "WAPhotos" (wknvk-zj5ag)
+[7XYLG] 2023/12/20 13:27:11 WARNING: Error on folder "WAPhotos" (wknvk-zj5ag): folder path missing
+[7XYLG] 2023/12/20 13:27:11 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[7XYLG] 2023/12/20 13:27:11 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/20 13:27:27 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:27:27 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:27:28 INFO: Single thread SHA256 performance is 315 MB/s using crypto/sha256 (295 MB/s using minio/sha256-simd).
+[start] 2023/12/20 13:35:08 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:35:08 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[start] 2023/12/20 13:35:22 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:35:22 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:35:23 INFO: Single thread SHA256 performance is 316 MB/s using crypto/sha256 (304 MB/s using minio/sha256-simd).
+[start] 2023/12/20 13:44:02 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:44:02 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[start] 2023/12/20 13:44:20 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:44:20 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:44:21 INFO: Single thread SHA256 performance is 309 MB/s using minio/sha256-simd (301 MB/s using crypto/sha256).
+[start] 2023/12/20 13:46:29 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:46:29 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:46:30 INFO: Single thread SHA256 performance is 314 MB/s using minio/sha256-simd (294 MB/s using crypto/sha256).
+[start] 2023/12/20 13:46:53 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:46:53 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:46:53 INFO: Single thread SHA256 performance is 298 MB/s using minio/sha256-simd (295 MB/s using crypto/sha256).
+[start] 2023/12/20 13:47:12 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:47:12 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:47:13 INFO: Single thread SHA256 performance is 301 MB/s using crypto/sha256 (290 MB/s using minio/sha256-simd).
+[start] 2023/12/20 13:47:23 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:47:23 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:47:24 INFO: Single thread SHA256 performance is 307 MB/s using minio/sha256-simd (298 MB/s using crypto/sha256).
+[start] 2023/12/20 13:48:04 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:48:04 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:48:04 INFO: Single thread SHA256 performance is 309 MB/s using crypto/sha256 (297 MB/s using minio/sha256-simd).
+[start] 2023/12/20 13:48:24 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:48:24 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:48:25 INFO: Single thread SHA256 performance is 304 MB/s using minio/sha256-simd (301 MB/s using crypto/sha256).
+[start] 2023/12/20 13:49:09 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:49:09 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[start] 2023/12/20 13:50:59 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:50:59 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:51:00 INFO: Single thread SHA256 performance is 311 MB/s using crypto/sha256 (307 MB/s using minio/sha256-simd).
+[start] 2023/12/20 13:51:27 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:51:27 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:51:28 INFO: Single thread SHA256 performance is 280 MB/s using minio/sha256-simd (277 MB/s using crypto/sha256).
+[start] 2023/12/20 13:51:46 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:51:46 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:51:47 INFO: Single thread SHA256 performance is 309 MB/s using crypto/sha256 (301 MB/s using minio/sha256-simd).
+[start] 2023/12/20 13:52:48 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:52:48 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:52:49 INFO: Single thread SHA256 performance is 318 MB/s using minio/sha256-simd (297 MB/s using crypto/sha256).
+[start] 2023/12/20 13:53:15 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:53:15 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:53:16 INFO: Single thread SHA256 performance is 305 MB/s using minio/sha256-simd (297 MB/s using crypto/sha256).
+[start] 2023/12/20 13:54:19 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:54:19 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:54:20 INFO: Single thread SHA256 performance is 308 MB/s using crypto/sha256 (293 MB/s using minio/sha256-simd).
+[7XYLG] 2023/12/20 13:54:21 INFO: Hashing performance is 266.42 MB/s
+[7XYLG] 2023/12/20 13:54:21 INFO: Overall send rate is unlimited, receive rate is unlimited
+[7XYLG] 2023/12/20 13:54:21 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[7XYLG] 2023/12/20 13:54:21 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[7XYLG] 2023/12/20 13:54:21 INFO: Ready to synchronize "WAVideos" (35xs8-89s0b) (sendreceive)
+[7XYLG] 2023/12/20 13:54:21 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[7XYLG] 2023/12/20 13:54:21 INFO: Ready to synchronize "SharedFolder" (dw423-ddwsi) (sendreceive)
+[7XYLG] 2023/12/20 13:54:21 INFO: Ready to synchronize "Camera" (le2113_94ng-photos) (sendreceive)
+[7XYLG] 2023/12/20 13:54:21 INFO: Ready to synchronize "WAPhotos" (wknvk-zj5ag) (sendreceive)
+[7XYLG] 2023/12/20 13:54:21 INFO: Failed initial scan of sendreceive folder "WAPhotos" (wknvk-zj5ag)
+[7XYLG] 2023/12/20 13:54:21 WARNING: Error on folder "WAPhotos" (wknvk-zj5ag): folder path missing
+[7XYLG] 2023/12/20 13:54:21 INFO: Failed initial scan of sendreceive folder "WAVideos" (35xs8-89s0b)
+[7XYLG] 2023/12/20 13:54:21 WARNING: Error on folder "WAVideos" (35xs8-89s0b): folder path missing
+[7XYLG] 2023/12/20 13:54:21 INFO: Failed initial scan of sendreceive folder "SharedFolder" (dw423-ddwsi)
+[7XYLG] 2023/12/20 13:54:21 WARNING: Error on folder "SharedFolder" (dw423-ddwsi): folder path missing
+[7XYLG] 2023/12/20 13:54:21 INFO: Failed initial scan of sendreceive folder "Camera" (le2113_94ng-photos)
+[7XYLG] 2023/12/20 13:54:21 WARNING: Error on folder "Camera" (le2113_94ng-photos): folder path missing
+[7XYLG] 2023/12/20 13:54:21 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[7XYLG] 2023/12/20 13:54:21 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:54:21 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:54:21 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:54:21 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:54:21 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:54:21 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[7XYLG] 2023/12/20 13:54:21 INFO: TCP listener ([::]:22000) starting
+[7XYLG] 2023/12/20 13:54:21 INFO: GUI and API listening on 127.0.0.1:8384
+[7XYLG] 2023/12/20 13:54:21 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[7XYLG] 2023/12/20 13:54:21 INFO: My name is "raspberrypi"
+[7XYLG] 2023/12/20 13:54:21 INFO: Device Y557KZH-I3QXO5R-XI3777Q-CXB6Q4Z-TDAZZMT-C6CSA26-UZIDQLM-DZ2FQQP is "Charmeleon_KLS" at [dynamic]
+[7XYLG] 2023/12/20 13:54:21 INFO: Device 2EECOHA-Q63TX7D-UTSVEDH-EDKXCFY-HN76YSI-675ZMBV-YEG4U5B-IS3QXAZ is "LE2113" at [dynamic]
+[7XYLG] 2023/12/20 13:54:21 INFO: Device 4EWKOHT-TAUY47D-UB4QPUZ-AKMRUUM-3GDCLB5-7O3BXTB-M2NZD3T-7ONUPAZ is "OP9" at [dynamic]
+[start] 2023/12/20 13:54:35 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[7XYLG] 2023/12/20 13:54:35 INFO: My ID: 7XYLGJ2-ULWJCQU-Y7ZCY5G-52WYF7Q-KDHXCDO-IGGJFS5-F3GGD6D-WWHNCQ5
+[7XYLG] 2023/12/20 13:54:36 INFO: Single thread SHA256 performance is 304 MB/s using minio/sha256-simd (294 MB/s using crypto/sha256).

@@ -69,10 +69,11 @@ SyncthingReady:
 	//Device ID and name already present in test home folder
 	//deviceID := "H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP"
 
-	//devices := [3]string{
-	//	"6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU",
-	//	"EIO7BWO-VIACG5F-WRVA4ND-ISMBTSF-3O5WCRY-45AZHVQ-LNXNHHI-GBRQ2AY" +
-	//		"FMXYAGO-SRWPBMB-5G6VEKW-WRSXRXM-ENB4S6H-KVPHQUP-4BQE33E-OKOWYAL"}
+	devices := [3]string{
+		"6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU",
+		"FMXYAGO-SRWPBMB-5G6VEKW-WRSXRXM-ENB4S6H-KVPHQUP-4BQE33E-OKOWYAL",
+		"XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ",
+	}
 
 	//Get devices configured with the current instance of syncthing
 	url := "http://" + address + "/rest/system/discovery"
@@ -94,5 +95,10 @@ SyncthingReady:
 		return
 	}
 
-	log.Println(config)
+	for i := 0; i < len(devices); i++ {
+		if config[devices[i]] == nil {
+			t.Errorf("Device: %s was not found", devices[i])
+		}
+	}
+
 }
