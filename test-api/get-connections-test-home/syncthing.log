@@ -556,3 +556,777 @@
 [6VKB3] 2023/12/20 11:16:09 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
 [6VKB3] 2023/12/20 11:16:09 INFO: TCP listener ([::]:22000) starting
 [6VKB3] 2023/12/20 11:16:09 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[start] 2023/12/20 14:58:02 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 14:58:02 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 14:58:03 INFO: Single thread SHA256 performance is 316 MB/s using crypto/sha256 (313 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 14:58:03 INFO: Hashing performance is 285.52 MB/s
+[6VKB3] 2023/12/20 14:58:03 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 14:58:03 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 14:58:03 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 14:58:03 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 14:58:03 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 14:58:03 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 14:58:03 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 14:58:03 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 14:58:03 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 14:58:03 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 14:58:03 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 14:58:03 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:58:03 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:58:03 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:58:03 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:58:03 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:58:03 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:58:03 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 14:58:03 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 14:58:03 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[start] 2023/12/20 14:58:45 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 14:58:45 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 14:58:46 INFO: Single thread SHA256 performance is 319 MB/s using crypto/sha256 (316 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 14:58:46 INFO: Hashing performance is 276.21 MB/s
+[6VKB3] 2023/12/20 14:58:46 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 14:58:46 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 14:58:46 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 14:58:46 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 14:58:46 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 14:58:46 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 14:58:46 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 14:58:46 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 14:58:46 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 14:58:46 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 14:58:46 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 14:58:46 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 14:58:46 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 14:58:46 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:58:46 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:58:46 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:58:46 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:58:46 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:58:46 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:58:46 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/20 14:59:26 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 14:59:26 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 14:59:26 INFO: Single thread SHA256 performance is 328 MB/s using minio/sha256-simd (326 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 14:59:27 INFO: Hashing performance is 275.56 MB/s
+[6VKB3] 2023/12/20 14:59:27 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 14:59:27 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 14:59:27 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 14:59:27 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 14:59:27 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 14:59:27 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 14:59:27 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 14:59:27 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 14:59:27 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 14:59:27 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 14:59:27 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 14:59:27 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 14:59:27 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:59:27 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:59:27 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:59:27 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:59:27 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:59:27 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 14:59:27 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 14:59:27 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[start] 2023/12/20 15:02:09 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:02:09 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:02:10 INFO: Single thread SHA256 performance is 311 MB/s using minio/sha256-simd (307 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:02:10 INFO: Hashing performance is 269.07 MB/s
+[6VKB3] 2023/12/20 15:02:10 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:02:10 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:02:10 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:02:10 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:02:10 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:02:10 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:02:10 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:02:10 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:02:10 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:10 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:10 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:10 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:10 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:10 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:10 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:02:10 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:02:10 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:02:10 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:02:10 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:02:10 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/20 15:02:39 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:02:39 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:02:39 INFO: Single thread SHA256 performance is 314 MB/s using crypto/sha256 (298 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 15:02:40 INFO: Hashing performance is 269.83 MB/s
+[6VKB3] 2023/12/20 15:02:40 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:02:40 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:02:40 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:02:40 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:02:40 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:02:40 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:02:40 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:02:40 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:02:40 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:02:40 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:02:40 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:02:40 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:02:40 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:02:40 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:40 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:40 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:40 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:40 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:40 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:40 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/20 15:02:53 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:02:53 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:02:54 INFO: Single thread SHA256 performance is 323 MB/s using crypto/sha256 (317 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 15:02:55 INFO: Hashing performance is 280.41 MB/s
+[6VKB3] 2023/12/20 15:02:55 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:02:55 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:02:55 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:02:55 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:02:55 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:02:55 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:02:55 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:55 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:55 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:55 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:55 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:55 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:02:55 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:02:55 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:02:55 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:02:55 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:02:55 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:02:55 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:02:55 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:02:55 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[start] 2023/12/20 15:04:46 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:04:46 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:04:47 INFO: Single thread SHA256 performance is 319 MB/s using minio/sha256-simd (317 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:04:47 INFO: Hashing performance is 284.66 MB/s
+[6VKB3] 2023/12/20 15:04:47 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:04:47 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:04:47 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:04:47 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:04:47 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:04:47 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:04:47 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:04:47 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:04:47 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:04:47 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:04:47 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:04:47 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:04:47 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:04:47 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:04:47 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:04:47 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:04:47 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:04:47 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:04:47 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:04:47 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:04:48 INFO: Detected 1 NAT service
+[6VKB3] 2023/12/20 15:04:48 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[6VKB3] 2023/12/20 15:04:48 INFO: TCP listener ([::]:22000) shutting down
+[6VKB3] 2023/12/20 15:04:48 INFO: Exiting
+[start] 2023/12/20 15:04:49 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:04:49 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:04:50 INFO: Single thread SHA256 performance is 319 MB/s using crypto/sha256 (312 MB/s using minio/sha256-simd).
+[start] 2023/12/20 15:06:17 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:06:17 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:06:18 INFO: Single thread SHA256 performance is 319 MB/s using crypto/sha256 (315 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 15:06:18 INFO: Hashing performance is 264.81 MB/s
+[6VKB3] 2023/12/20 15:06:18 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:06:18 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:06:18 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:06:18 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:06:18 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:06:18 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:06:18 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:06:18 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:06:18 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:06:18 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:06:18 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:06:18 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:06:18 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:06:18 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:06:18 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:06:18 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:06:18 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:06:18 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:06:18 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:06:18 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:06:19 INFO: Detected 1 NAT service
+[6VKB3] 2023/12/20 15:06:19 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[6VKB3] 2023/12/20 15:06:19 INFO: TCP listener ([::]:22000) shutting down
+[6VKB3] 2023/12/20 15:06:19 INFO: Exiting
+[start] 2023/12/20 15:06:20 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:06:20 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:06:21 INFO: Single thread SHA256 performance is 322 MB/s using minio/sha256-simd (321 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:06:22 INFO: Hashing performance is 282.85 MB/s
+[6VKB3] 2023/12/20 15:06:22 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:06:22 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:06:22 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:06:22 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:06:22 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:06:22 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:06:22 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:06:22 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:06:22 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:06:22 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:06:22 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:06:22 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:06:22 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:06:22 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:06:22 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:06:22 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:06:22 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:06:22 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:06:22 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:06:22 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/20 15:10:22 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:10:23 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:10:24 INFO: Single thread SHA256 performance is 314 MB/s using crypto/sha256 (308 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 15:10:24 INFO: Hashing performance is 276.86 MB/s
+[6VKB3] 2023/12/20 15:10:24 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:10:24 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:10:24 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:10:24 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:10:24 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:10:24 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:10:24 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:10:24 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:10:24 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:10:24 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:10:24 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:10:24 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:10:24 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:10:24 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:10:24 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:24 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:24 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:24 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:24 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:24 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:24 INFO: Detected 1 NAT service
+[6VKB3] 2023/12/20 15:10:24 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[6VKB3] 2023/12/20 15:10:25 INFO: TCP listener ([::]:22000) shutting down
+[6VKB3] 2023/12/20 15:10:25 INFO: Exiting
+[start] 2023/12/20 15:10:26 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:10:26 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:10:27 INFO: Single thread SHA256 performance is 324 MB/s using minio/sha256-simd (320 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:10:27 INFO: Hashing performance is 282.06 MB/s
+[6VKB3] 2023/12/20 15:10:27 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:10:27 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:10:27 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:10:27 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:10:27 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:10:27 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:10:27 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:10:27 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:10:27 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:10:27 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:10:27 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:10:27 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:10:27 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:27 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:27 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:27 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:27 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:27 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:27 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:10:27 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/20 15:10:56 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:10:56 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:10:56 INFO: Single thread SHA256 performance is 309 MB/s using minio/sha256-simd (306 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:10:57 INFO: Hashing performance is 271.67 MB/s
+[6VKB3] 2023/12/20 15:10:57 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:10:57 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:10:57 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:10:57 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:10:57 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:10:57 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:10:57 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:10:57 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:10:57 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:10:57 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:57 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:57 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:57 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:57 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:57 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:10:57 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:10:57 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:10:57 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:10:57 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:10:57 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:10:57 INFO: Detected 1 NAT service
+[6VKB3] 2023/12/20 15:10:57 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[6VKB3] 2023/12/20 15:10:58 INFO: TCP listener ([::]:22000) shutting down
+[6VKB3] 2023/12/20 15:10:58 INFO: Exiting
+[start] 2023/12/20 15:10:59 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:10:59 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:11:00 INFO: Single thread SHA256 performance is 312 MB/s using crypto/sha256 (310 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 15:11:00 INFO: Hashing performance is 277.02 MB/s
+[6VKB3] 2023/12/20 15:11:00 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:11:00 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:11:00 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:11:00 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:11:00 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:11:00 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:11:00 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:11:00 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:11:00 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:11:00 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:11:00 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:11:00 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:11:00 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:11:00 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:11:00 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:11:00 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:11:00 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:11:00 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:11:00 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:11:00 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/20 15:12:12 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:12:12 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:12:13 INFO: Single thread SHA256 performance is 309 MB/s using minio/sha256-simd (309 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:12:14 INFO: Hashing performance is 269.55 MB/s
+[6VKB3] 2023/12/20 15:12:14 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:12:14 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:12:14 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:12:14 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:12:14 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:12:14 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:12:14 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:12:14 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:12:14 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:12:14 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:12:14 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:12:14 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:12:14 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:12:14 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:12:14 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:12:14 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:12:14 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:12:14 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:12:14 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:12:14 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:12:14 INFO: Detected 1 NAT service
+[6VKB3] 2023/12/20 15:12:14 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[6VKB3] 2023/12/20 15:12:15 INFO: TCP listener ([::]:22000) shutting down
+[6VKB3] 2023/12/20 15:12:15 INFO: Exiting
+[start] 2023/12/20 15:12:16 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:12:16 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:12:17 INFO: Single thread SHA256 performance is 301 MB/s using crypto/sha256 (297 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 15:12:17 INFO: Hashing performance is 264.56 MB/s
+[6VKB3] 2023/12/20 15:12:17 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:12:17 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:12:17 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:12:17 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:12:17 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:12:17 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:12:17 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:12:17 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:12:17 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:12:17 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:12:17 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:12:17 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:12:17 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:12:17 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:12:17 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:12:17 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:12:17 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:12:17 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:12:17 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:12:17 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[start] 2023/12/20 15:13:06 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:13:06 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:13:07 INFO: Single thread SHA256 performance is 309 MB/s using crypto/sha256 (308 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 15:13:07 INFO: Hashing performance is 264.48 MB/s
+[6VKB3] 2023/12/20 15:13:07 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:13:07 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:13:07 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:13:07 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:13:07 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:13:07 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:13:07 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:13:07 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:13:07 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:13:07 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:07 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:07 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:07 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:07 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:07 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:07 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:13:07 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:13:07 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:13:07 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:13:07 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:13:08 INFO: Detected 1 NAT service
+[6VKB3] 2023/12/20 15:13:08 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[6VKB3] 2023/12/20 15:13:08 INFO: TCP listener ([::]:22000) shutting down
+[6VKB3] 2023/12/20 15:13:08 INFO: Exiting
+[start] 2023/12/20 15:13:09 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:13:09 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:13:10 INFO: Single thread SHA256 performance is 287 MB/s using minio/sha256-simd (277 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:13:11 INFO: Hashing performance is 255.12 MB/s
+[6VKB3] 2023/12/20 15:13:11 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:13:11 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:13:11 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:13:11 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:13:11 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:13:11 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:13:11 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:13:11 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:13:11 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:11 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:11 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:11 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:11 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:11 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:11 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:13:11 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:13:11 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:13:11 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:13:11 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:13:11 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/20 15:13:30 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:13:31 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:13:31 INFO: Single thread SHA256 performance is 311 MB/s using minio/sha256-simd (302 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:13:32 INFO: Hashing performance is 274.53 MB/s
+[6VKB3] 2023/12/20 15:13:32 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:13:32 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:13:32 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:13:32 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:13:32 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:13:32 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:13:32 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:13:32 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:13:32 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:13:32 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:13:32 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:13:32 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:13:32 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:32 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:32 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:32 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:32 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:32 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:32 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:13:32 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:13:32 INFO: Detected 1 NAT service
+[6VKB3] 2023/12/20 15:13:32 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[6VKB3] 2023/12/20 15:13:33 INFO: TCP listener ([::]:22000) shutting down
+[6VKB3] 2023/12/20 15:13:33 INFO: Exiting
+[start] 2023/12/20 15:13:34 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:13:34 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:13:35 INFO: Single thread SHA256 performance is 311 MB/s using crypto/sha256 (293 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 15:13:35 INFO: Hashing performance is 260.64 MB/s
+[6VKB3] 2023/12/20 15:13:35 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:13:35 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:13:35 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:13:35 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:13:35 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:13:35 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:13:35 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:13:35 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:13:35 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:13:35 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:13:35 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:13:35 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:13:35 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:13:35 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:35 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:35 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:35 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:35 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:35 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:13:35 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/20 15:14:05 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:14:05 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:14:06 INFO: Single thread SHA256 performance is 313 MB/s using minio/sha256-simd (299 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:14:06 INFO: Hashing performance is 269.18 MB/s
+[6VKB3] 2023/12/20 15:14:06 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:14:06 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:14:06 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:14:06 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:14:06 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:14:06 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:14:06 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:14:06 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:14:06 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:06 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:06 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:06 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:06 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:06 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:06 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:14:06 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:14:06 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:14:06 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:14:06 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:14:06 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:14:07 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[6VKB3] 2023/12/20 15:14:07 INFO: Detected 1 NAT service
+[6VKB3] 2023/12/20 15:14:07 INFO: TCP listener ([::]:22000) shutting down
+[6VKB3] 2023/12/20 15:14:07 INFO: Exiting
+[start] 2023/12/20 15:14:08 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:14:08 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:14:09 INFO: Single thread SHA256 performance is 307 MB/s using minio/sha256-simd (304 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:14:10 INFO: Hashing performance is 268.89 MB/s
+[6VKB3] 2023/12/20 15:14:10 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:14:10 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:14:10 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:14:10 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:14:10 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:14:10 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:14:10 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:14:10 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:14:10 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:14:10 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:14:10 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:14:10 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:14:10 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:14:10 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:14:10 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:10 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:10 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:10 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:10 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:10 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[start] 2023/12/20 15:14:31 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:14:31 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:14:32 INFO: Single thread SHA256 performance is 311 MB/s using crypto/sha256 (304 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 15:14:32 INFO: Hashing performance is 267.74 MB/s
+[6VKB3] 2023/12/20 15:14:32 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:14:32 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:14:32 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:14:32 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:14:32 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:14:32 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:14:32 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:14:32 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:14:32 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:32 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:32 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:32 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:32 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:32 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:32 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:14:32 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:14:32 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:14:32 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:14:32 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:14:32 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:14:33 INFO: Detected 1 NAT service
+[start] 2023/12/20 15:14:53 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:14:53 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:14:54 INFO: Single thread SHA256 performance is 309 MB/s using minio/sha256-simd (308 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:14:54 INFO: Hashing performance is 272.37 MB/s
+[6VKB3] 2023/12/20 15:14:54 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:14:54 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:14:54 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:14:54 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:14:54 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:14:54 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:14:54 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:14:54 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:14:54 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:14:54 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:14:54 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:14:54 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:14:54 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:14:54 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:14:54 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:54 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:54 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:54 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:54 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:54 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:14:55 INFO: Detected 1 NAT service
+[6VKB3] 2023/12/20 15:14:55 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[6VKB3] 2023/12/20 15:14:55 INFO: TCP listener ([::]:22000) shutting down
+[6VKB3] 2023/12/20 15:14:55 INFO: Exiting
+[start] 2023/12/20 15:14:56 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:14:56 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/20 15:15:04 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:15:04 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:15:05 INFO: Single thread SHA256 performance is 311 MB/s using minio/sha256-simd (309 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:15:05 INFO: Hashing performance is 269.44 MB/s
+[6VKB3] 2023/12/20 15:15:05 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:15:05 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:15:05 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:15:05 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:15:05 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:15:05 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:15:05 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:15:05 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:15:05 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:15:05 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:15:05 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:15:05 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:15:05 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:15:05 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:15:05 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:15:05 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:15:05 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:15:05 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:15:05 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:15:05 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:15:06 INFO: Detected 1 NAT service
+[6VKB3] 2023/12/20 15:15:06 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[6VKB3] 2023/12/20 15:15:06 INFO: TCP listener ([::]:22000) shutting down
+[6VKB3] 2023/12/20 15:15:06 INFO: Exiting
+[start] 2023/12/20 15:15:07 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:15:07 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:15:08 INFO: Single thread SHA256 performance is 310 MB/s using crypto/sha256 (308 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 15:15:09 INFO: Hashing performance is 268.22 MB/s
+[6VKB3] 2023/12/20 15:15:09 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:15:09 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:15:09 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:15:09 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:15:09 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:15:09 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:15:09 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:15:09 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:15:09 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:15:09 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:15:09 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:15:09 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:15:09 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:15:09 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:15:09 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:15:09 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:15:09 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:15:09 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:15:09 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:15:09 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/20 15:17:41 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:17:41 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:17:42 INFO: Single thread SHA256 performance is 321 MB/s using minio/sha256-simd (312 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:17:42 INFO: Hashing performance is 283.84 MB/s
+[6VKB3] 2023/12/20 15:17:42 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:17:42 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:17:42 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:17:42 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:17:42 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:17:42 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:17:42 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:17:42 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:17:42 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:17:42 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:17:42 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:17:42 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:17:42 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:17:42 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:17:42 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:17:42 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:17:42 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:17:42 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:17:42 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:17:42 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:17:42 INFO: Detected 1 NAT service
+[6VKB3] 2023/12/20 15:17:42 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[6VKB3] 2023/12/20 15:17:43 INFO: TCP listener ([::]:22000) shutting down
+[6VKB3] 2023/12/20 15:17:43 INFO: Exiting
+[start] 2023/12/20 15:17:44 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:17:44 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:17:45 INFO: Single thread SHA256 performance is 327 MB/s using minio/sha256-simd (325 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:17:45 INFO: Hashing performance is 279.60 MB/s
+[6VKB3] 2023/12/20 15:17:45 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:17:46 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:17:46 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:17:46 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:17:46 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:17:46 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:17:46 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:17:46 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:17:46 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:17:46 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:17:46 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:17:46 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:17:46 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:17:46 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:17:46 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:17:46 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:17:46 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:17:46 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:17:46 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:17:46 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/20 15:19:23 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:19:23 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:19:24 INFO: Single thread SHA256 performance is 318 MB/s using crypto/sha256 (313 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 15:19:24 INFO: Hashing performance is 283.89 MB/s
+[6VKB3] 2023/12/20 15:19:24 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:19:24 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:19:24 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:19:24 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:19:24 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:19:24 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:19:24 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:19:24 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:19:24 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:24 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:19:24 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:24 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:24 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:24 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:24 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:24 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:19:24 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:19:24 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:19:24 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:19:24 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:19:25 INFO: Detected 1 NAT service
+[6VKB3] 2023/12/20 15:19:25 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[6VKB3] 2023/12/20 15:19:25 INFO: TCP listener ([::]:22000) shutting down
+[6VKB3] 2023/12/20 15:19:25 INFO: Exiting
+[start] 2023/12/20 15:19:26 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:19:26 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:19:27 INFO: Single thread SHA256 performance is 322 MB/s using crypto/sha256 (319 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/20 15:19:28 INFO: Hashing performance is 261.65 MB/s
+[6VKB3] 2023/12/20 15:19:28 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:19:28 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:19:28 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:19:28 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:19:28 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:19:28 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:19:28 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:19:28 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:19:28 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:28 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:28 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:28 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:28 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:28 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:28 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:19:28 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:19:28 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:19:28 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:19:28 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/20 15:19:28 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/20 15:19:34 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[6VKB3] 2023/12/20 15:19:34 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/20 15:19:35 INFO: Single thread SHA256 performance is 308 MB/s using minio/sha256-simd (306 MB/s using crypto/sha256).
+[6VKB3] 2023/12/20 15:19:36 INFO: Hashing performance is 278.94 MB/s
+[6VKB3] 2023/12/20 15:19:36 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/20 15:19:36 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:19:36 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:19:36 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/20 15:19:36 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/20 15:19:36 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/20 15:19:36 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/20 15:19:36 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/20 15:19:36 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:36 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:36 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:36 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:36 INFO: Listen (BEP/quic): listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:36 INFO: listenerSupervisor@quic://0.0.0.0:22000: service quic://0.0.0.0:22000 failed: listen udp 0.0.0.0:22000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[6VKB3] 2023/12/20 15:19:36 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/20 15:19:36 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/20 15:19:36 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/20 15:19:36 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/20 15:19:36 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/20 15:19:36 INFO: Completed initial scan of sendreceive folder "Default Folder" (default)

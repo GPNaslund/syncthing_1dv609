@@ -4216,3 +4216,27 @@
 13:54:35.343431 table@remove removed @139553
 13:54:36.342978 db@close closing
 13:54:36.342978 db@close done T·0s
+=============== Dec 20, 2023 (CET) ===============
+14:52:28.636778 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:52:28.637294 version@stat F·[0 12] S·23MiB[0B 23MiB] Sc·[0.00 0.24]
+14:52:28.637294 db@open opening
+14:52:28.637294 journal@recovery F·1
+14:52:28.638318 journal@recovery recovering @139592
+14:52:28.638943 version@stat F·[0 12] S·23MiB[0B 23MiB] Sc·[0.00 0.24]
+14:52:28.643078 db@janitor F·15 G·1
+14:52:28.643078 db@janitor removing table-139591
+14:52:28.643078 db@open done T·5.7834ms
+14:52:29.687100 db@close closing
+14:52:29.687100 db@close done T·0s
+=============== Dec 20, 2023 (CET) ===============
+15:19:39.801905 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:19:39.802938 version@stat F·[0 12] S·23MiB[0B 23MiB] Sc·[0.00 0.24]
+15:19:39.802938 db@open opening
+15:19:39.802938 journal@recovery F·1
+15:19:39.803961 journal@recovery recovering @139595
+15:19:39.805200 memdb@flush created L0@139597 N·1 S·147B "\nla..eck,v1710888":"\nla..eck,v1710888"
+15:19:39.806230 version@stat F·[1 12] S·23MiB[147B 23MiB] Sc·[0.25 0.24]
+15:19:39.809868 db@janitor F·15 G·0
+15:19:39.809868 db@open done T·6.9302ms
+15:19:40.862878 db@close closing
+15:19:40.863885 db@close done T·1.0074ms
