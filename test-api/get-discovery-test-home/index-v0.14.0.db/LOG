@@ -3996,3 +3996,23 @@
 10:52:26.080318 db@open done T·58.8078ms
 10:52:28.689473 db@close closing
 10:52:28.690215 db@close done T·742.1µs
+=============== Dec 20, 2023 (CET) ===============
+11:16:29.082264 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:16:29.083264 version@stat F·[3 12] S·23MiB[790B 23MiB] Sc·[0.75 0.24]
+11:16:29.083264 db@open opening
+11:16:29.084259 journal@recovery F·1
+11:16:29.085256 journal@recovery recovering @139550
+11:16:29.089246 memdb@flush created L0@139552 N·2 S·181B "\x04de..can,v1710739":"\nla..eck,v1710738"
+11:16:29.090242 version@stat F·[4 12] S·23MiB[971B 23MiB] Sc·[1.00 0.24]
+11:16:29.095229 db@janitor F·18 G·0
+11:16:29.095229 db@open done T·11.9647ms
+11:16:29.095229 table@compaction L0·4 -> L1·1 S·2MiB Q·1710740
+11:16:29.146167 table@build created L1@139555 N·28377 S·2MiB "\x02\x00\x00..apk,v1309442":"\r$D..\x10Z\x00,v400019"
+11:16:29.146167 version@stat F·[0 12] S·23MiB[0B 23MiB] Sc·[0.00 0.24]
+11:16:29.147165 table@compaction committed F-4 S-566B Ke·0 D·11 T·51.9358ms
+11:16:29.148163 table@remove removed @139549
+11:16:29.149161 table@remove removed @139544
+11:16:29.149161 table@remove removed @139541
+11:16:29.149161 table@remove removed @139538
+11:16:31.671529 db@close closing
+11:16:31.677370 db@close done T·5.8411ms

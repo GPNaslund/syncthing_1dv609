@@ -102,7 +102,7 @@ SyncthingReady:
 
 	//Compare expected against actual
 	if !(devices[0].Id == deviceID && devices[0].Name == deviceName) {
-		t.Errorf("Expected ID:%s,Name:%s got ID:%s,Name:%s", devices[0].Id, devices[0].Name, deviceID, deviceName)
+		t.Errorf("Expected ID:%s,Name:%s got ID:%s,Name:%s", deviceID, deviceName, devices[1].Id, devices[1].Name)
 	}
 
 }

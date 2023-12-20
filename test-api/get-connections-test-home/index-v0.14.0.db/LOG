@@ -335,3 +335,27 @@
 10:38:29.378717 db@open done T·13.9629ms
 10:38:32.047499 db@close closing
 10:38:32.048488 db@close done T·988.9µs
+=============== Dec 20, 2023 (CET) ===============
+10:57:54.056834 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:57:54.057426 version@stat F·[1 1] S·577B[144B 433B] Sc·[0.25 0.00]
+10:57:54.057935 db@open opening
+10:57:54.057969 journal@recovery F·1
+10:57:54.059030 journal@recovery recovering @72
+10:57:54.064802 memdb@flush created L0@74 N·2 S·175B "\x04de..can,v92":"\nla..eck,v91"
+10:57:54.065799 version@stat F·[2 1] S·752B[319B 433B] Sc·[0.50 0.00]
+10:57:54.072780 db@janitor F·5 G·0
+10:57:54.072780 db@open done T·14.8454ms
+10:57:56.773876 db@close closing
+10:57:56.773876 db@close done T·0s
+=============== Dec 20, 2023 (CET) ===============
+11:16:08.241852 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:16:08.242849 version@stat F·[2 1] S·752B[319B 433B] Sc·[0.50 0.00]
+11:16:08.242849 db@open opening
+11:16:08.242849 journal@recovery F·1
+11:16:08.243847 journal@recovery recovering @75
+11:16:08.245842 memdb@flush created L0@77 N·2 S·175B "\x04de..can,v95":"\nla..eck,v94"
+11:16:08.246840 version@stat F·[3 1] S·927B[494B 433B] Sc·[0.75 0.00]
+11:16:08.252823 db@janitor F·6 G·0
+11:16:08.252823 db@open done T·9.9734ms
+11:16:10.928929 db@close closing
+11:16:10.928929 db@close done T·0s
