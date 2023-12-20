@@ -2459,3 +2459,31 @@
 [3AV55] 2023/12/19 14:13:01 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
 [start] 2023/12/19 14:19:07 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
 [3AV55] 2023/12/19 14:19:07 INFO: My ID: 3AV55P2-DQNTB74-E5NTCGO-3MJQCZP-MSDEXMF-UALCWBB-TW5JOZE-IZJS5AE
+[start] 2023/12/19 17:26:08 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[3AV55] 2023/12/19 17:26:09 INFO: My ID: 3AV55P2-DQNTB74-E5NTCGO-3MJQCZP-MSDEXMF-UALCWBB-TW5JOZE-IZJS5AE
+[3AV55] 2023/12/19 17:26:10 INFO: Single thread SHA256 performance is 316 MB/s using minio/sha256-simd (312 MB/s using crypto/sha256).
+[3AV55] 2023/12/19 17:26:10 INFO: Hashing performance is 263.37 MB/s
+[3AV55] 2023/12/19 17:26:10 INFO: Overall send rate is unlimited, receive rate is unlimited
+[3AV55] 2023/12/19 17:26:10 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[3AV55] 2023/12/19 17:26:10 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[3AV55] 2023/12/19 17:26:10 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[3AV55] 2023/12/19 17:26:10 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[3AV55] 2023/12/19 17:26:10 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[3AV55] 2023/12/19 17:26:10 WARNING: Failed starting API: listen tcp 127.0.0.1:8384: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[3AV55] 2023/12/19 17:26:10 WARNING: Starting API/GUI: listen tcp 127.0.0.1:8384: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[3AV55] 2023/12/19 17:26:12 INFO: Listen (BEP/tcp): lookup default: no such host
+[3AV55] 2023/12/19 17:26:15 INFO: Exiting
+[start] 2023/12/19 17:26:48 INFO: syncthing v1.27.1 "Gold Grasshopper" (go1.21.5 windows-amd64) builder@github.syncthing.net 2023-12-11 06:44:04 UTC
+[3AV55] 2023/12/19 17:26:48 INFO: My ID: 3AV55P2-DQNTB74-E5NTCGO-3MJQCZP-MSDEXMF-UALCWBB-TW5JOZE-IZJS5AE
+[3AV55] 2023/12/19 17:26:49 INFO: Single thread SHA256 performance is 312 MB/s using minio/sha256-simd (299 MB/s using crypto/sha256).
+[3AV55] 2023/12/19 17:26:49 INFO: Hashing performance is 257.58 MB/s
+[3AV55] 2023/12/19 17:26:49 INFO: Overall send rate is unlimited, receive rate is unlimited
+[3AV55] 2023/12/19 17:26:49 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[3AV55] 2023/12/19 17:26:49 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[3AV55] 2023/12/19 17:26:49 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[3AV55] 2023/12/19 17:26:49 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[3AV55] 2023/12/19 17:26:49 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[3AV55] 2023/12/19 17:26:49 INFO: GUI and API listening on 127.0.0.1:8384
+[3AV55] 2023/12/19 17:26:49 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[3AV55] 2023/12/19 17:26:49 INFO: My name is "DESKTOP-G15GNSB"
+[3AV55] 2023/12/19 17:26:49 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]

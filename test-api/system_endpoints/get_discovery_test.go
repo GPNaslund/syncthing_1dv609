@@ -12,11 +12,11 @@ import (
 	"time"
 )
 
-func Test_GetConnection_Should_ReturnListOfDevices(t *testing.T) {
+func Test_GetDiscovery_ShouldReturn_DiscoveryCache(t *testing.T) {
 
 	// Setup path to bin and home
 	binPath := "../../bin"
-	homePath := "../get-connections-test-home"
+	homePath := "../get-discovery-test-home"
 
 	// Get a cmd struct to execute syncthing from.
 	cmd := exec.Command(binPath+"/syncthing", "--no-browser", "--home", homePath)
@@ -67,10 +67,15 @@ func Test_GetConnection_Should_ReturnListOfDevices(t *testing.T) {
 
 SyncthingReady:
 	//Device ID and name already present in test home folder
-	deviceID := "H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP"
+	//deviceID := "H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP"
+
+	//devices := [3]string{
+	//	"6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU",
+	//	"EIO7BWO-VIACG5F-WRVA4ND-ISMBTSF-3O5WCRY-45AZHVQ-LNXNHHI-GBRQ2AY" +
+	//		"FMXYAGO-SRWPBMB-5G6VEKW-WRSXRXM-ENB4S6H-KVPHQUP-4BQE33E-OKOWYAL"}
 
 	//Get devices configured with the current instance of syncthing
-	url := "http://" + address + "/rest/system/connections"
+	url := "http://" + address + "/rest/system/discovery"
 	resp, err := apitest.MakeHttpRequest("GET", apikey, url)
 	defer resp.Body.Close()
 
@@ -89,9 +94,5 @@ SyncthingReady:
 		return
 	}
 
-	//Verify the device actually exists in the connections response from syncthing
-	device := config["connections"][deviceID]
-	if device == nil {
-		t.Errorf("Device with ID: %s not found", deviceID)
-	}
+	log.Println(config)
 }

@@ -1992,3 +1992,49 @@
 14:19:07.833769 db@open done T·10.3769ms
 14:19:13.893621 db@close closing
 14:19:13.893621 db@close done T·0s
+=============== Dec 19, 2023 (CET) ===============
+17:26:08.914966 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:26:08.916595 version@stat F·[2 1] S·672B[290B 382B] Sc·[0.50 0.00]
+17:26:08.917575 db@open opening
+17:26:08.917575 journal@recovery F·1
+17:26:08.918569 journal@recovery recovering @357
+17:26:08.921561 memdb@flush created L0@359 N·1 S·145B "\nla..eck,v188":"\nla..eck,v188"
+17:26:08.921561 version@stat F·[3 1] S·817B[435B 382B] Sc·[0.75 0.00]
+17:26:08.926548 db@janitor F·6 G·0
+17:26:08.926548 db@open done T·8.9732ms
+17:26:15.151625 db@close closing
+17:26:15.152180 db@close done T·554.9µs
+=============== Dec 19, 2023 (CET) ===============
+17:26:16.209684 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:26:16.210198 version@stat F·[3 1] S·817B[435B 382B] Sc·[0.75 0.00]
+17:26:16.210198 db@open opening
+17:26:16.210198 journal@recovery F·1
+17:26:16.210730 journal@recovery recovering @360
+17:26:16.213406 memdb@flush created L0@362 N·1 S·145B "\nla..eck,v190":"\nla..eck,v190"
+17:26:16.213921 version@stat F·[4 1] S·962B[580B 382B] Sc·[1.00 0.00]
+17:26:16.217637 rename CURRENT.364: Access is denied.
+17:26:16.218148 commit@abandon useless vid D2
+=============== Dec 19, 2023 (CET) ===============
+17:26:48.097710 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:26:48.097710 CURRENT.364: missing target file: MANIFEST-000364
+17:26:48.098707 version@stat F·[3 1] S·817B[435B 382B] Sc·[0.75 0.00]
+17:26:48.098707 db@open opening
+17:26:48.098707 journal@recovery F·2
+17:26:48.099705 journal@recovery recovering @360
+17:26:48.099705 journal@recovery recovering @363
+17:26:48.110726 memdb@flush created L0@364 N·1 S·145B "\nla..eck,v190":"\nla..eck,v190"
+17:26:48.110726 version@stat F·[4 1] S·962B[580B 382B] Sc·[1.00 0.00]
+17:26:48.116710 version@stat F·[4 1] S·962B[580B 382B] Sc·[1.00 0.00]
+17:26:48.117707 db@janitor F·8 G·1
+17:26:48.117707 db@janitor removing table-362
+17:26:48.118704 db@open done T·19.9968ms
+17:26:48.118704 table@compaction L0·4 -> L1·1 S·962B Q·191
+17:26:48.122694 table@build created L1@367 N·12 S·382B "\x04de..can,v127":"\npr..ion,v48"
+17:26:48.122694 version@stat F·[0 1] S·382B[0B 382B] Sc·[0.00 0.00]
+17:26:48.122694 table@compaction committed F-4 S-580B Ke·0 D·4 T·3.9895ms
+17:26:48.123691 table@remove removed @359
+17:26:48.123691 table@remove removed @350
+17:26:48.123691 table@remove removed @345
+17:26:48.124688 table@remove removed @340
+17:26:54.070683 db@close closing
+17:26:54.070683 db@close done T·0s
