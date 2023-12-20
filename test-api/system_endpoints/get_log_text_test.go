@@ -2,56 +2,51 @@ package system_endpoints
 
 import (
 	"bufio"
-	"encoding/json"
 	test_api "github.com/syncthing/syncthing/test-api"
+	"io"
 	"log"
 	"os"
 	"os/exec"
 	"reflect"
 	"regexp"
+	"strings"
 	"testing"
 	"time"
 )
 
-type ListOfLogs struct {
-	Logs []Log `json:"messages"`
-}
-
-type Log struct {
-	When    string `json:"when"`
-	Message string `json:"message"`
-}
-
-func Test_GetLog_ShouldReturnRecentLogEntries_InJsonFormat(t *testing.T) {
-	originalApiLog := GetLog(t)
-	var apiLogs []Log
-	for _, log := range originalApiLog.Logs {
-		if log.Message != "..." {
-			apiLogs = append(apiLogs, log)
+func Test_GetLogTxt_ShouldReturnLogInTextFormat(t *testing.T) {
+	originalApiLog := GetLogInTextFormat(t)
+	var apiLog []string
+	var re = regexp.MustCompile(`^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\+\d{2}:\d{2}: (.*)`)
+	for _, log := range originalApiLog {
+		matches := re.FindStringSubmatch(log)
+		if matches != nil {
+			if matches[1] != "..." {
+				apiLog = append(apiLog, matches[1])
+			}
 		}
 	}
-	logFileEntries, err := ParseLogFile("../api-test-home/syncthing.log")
+	fileSystemLog, err := ParseLogFilePlain("../api-test-home/syncthing.log")
 	if err != nil {
-		t.Fatalf("Could not parse local log file %v", err)
+		t.Fatalf("Could not parse log file: %v", err)
 	}
 
-	apiLogLength := len(apiLogs)
-	logFileEntryLength := len(logFileEntries)
+	apiLogLength := len(apiLog)
+	logFileEntryLength := len(fileSystemLog)
 
-	lastFileLogEntries := logFileEntries
+	lastFileLogEntries := fileSystemLog
 	if logFileEntryLength > apiLogLength {
-		lastFileLogEntries = logFileEntries[logFileEntryLength-apiLogLength:]
+		lastFileLogEntries = fileSystemLog[logFileEntryLength-apiLogLength:]
 	}
 
 	for i := 0; i < apiLogLength; i++ {
-		if !reflect.DeepEqual(lastFileLogEntries[i], apiLogs[i].Message) {
-			t.Fatalf("Expected: %v, Got: %v", lastFileLogEntries[i], apiLogs[i].Message)
+		if !reflect.DeepEqual(lastFileLogEntries[i], apiLog[i]) {
+			t.Fatalf("Expected: %v, Got: %v", lastFileLogEntries[i], apiLog[i])
 		}
 	}
-
 }
 
-func GetLog(t *testing.T) ListOfLogs {
+func GetLogInTextFormat(t *testing.T) []string {
 	binPath := "../../bin"
 	homePath := "../api-test-home"
 
@@ -104,19 +99,23 @@ func GetLog(t *testing.T) ListOfLogs {
 
 	// The actual testing logic
 SyncthingReady:
-	logURL := "http://" + address + "/rest/system/log"
+	logURL := "http://" + address + "/rest/system/log.txt/"
 	response, err := test_api.MakeHttpRequest("GET", apikey, logURL)
 	if err != nil {
 		t.Fatalf("Could not do post request: %v", err)
 	}
-	var listOfLogs ListOfLogs
-	if err := json.NewDecoder(response.Body).Decode(&listOfLogs); err != nil {
-		t.Fatalf("Could not decode response: %v", err)
+
+	defer response.Body.Close()
+	bodyBytes, err := io.ReadAll(response.Body)
+	if err != nil {
+		t.Fatalf("Could not read response body: %v", err)
 	}
-	return listOfLogs
+
+	logText := string(bodyBytes)
+	return strings.Split(logText, "\n")
 }
 
-func ParseLogFile(pathToLogFile string) ([]string, error) {
+func ParseLogFilePlain(pathToLogFile string) ([]string, error) {
 	var re = regexp.MustCompile(`\[(.*?)\] \d{4}/\d{2}/\d{2} \d{2}:\d{2}:\d{2} (INFO|WARNING|ERROR|.*?): (.*)`)
 	file, err := os.Open(pathToLogFile)
 	if err != nil {
@@ -125,8 +124,7 @@ func ParseLogFile(pathToLogFile string) ([]string, error) {
 	}
 	defer file.Close()
 
-	logEntries := []string{}
-
+	var logEntries []string
 	scanner := bufio.NewScanner(file)
 	for scanner.Scan() {
 		matches := re.FindStringSubmatch(scanner.Text())
