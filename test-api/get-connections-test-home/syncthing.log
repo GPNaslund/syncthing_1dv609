@@ -1406,3 +1406,113 @@
 [6VKB3] 2023/12/20 23:36:48 INFO: TCP listener ([::]:22000) starting
 [6VKB3] 2023/12/20 23:36:54 INFO: Resuming 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
 [6VKB3] 2023/12/20 23:36:54 INFO: Resuming H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP
+[start] 2023/12/25 16:35:08 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/25 16:35:08 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/25 16:35:08 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/25 16:55:38 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/25 16:55:38 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/25 16:55:38 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/25 17:05:10 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/25 17:05:10 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/25 17:05:10 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/25 17:07:11 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/25 17:07:11 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/25 17:07:11 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/25 17:07:12 INFO: Single thread SHA256 performance is 1823 MB/s using minio/sha256-simd (1815 MB/s using crypto/sha256).
+[start] 2023/12/25 17:12:37 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/25 17:12:37 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/25 17:12:38 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/25 17:12:39 INFO: Single thread SHA256 performance is 1836 MB/s using crypto/sha256 (1800 MB/s using minio/sha256-simd).
+[6VKB3] 2023/12/25 17:12:39 INFO: Hashing performance is 1095.04 MB/s
+[6VKB3] 2023/12/25 17:12:39 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/25 17:12:39 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[6VKB3] 2023/12/25 17:12:39 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/25 17:12:39 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/25 17:12:39 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/25 17:12:39 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/25 17:12:39 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/25 17:12:39 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/25 17:12:39 WARNING: Failed to create folder root directory mkdir \\?\C:\Users\Leo: Access is denied.
+[6VKB3] 2023/12/25 17:12:39 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/25 17:12:39 INFO: Failed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/25 17:12:39 WARNING: Error on folder "Default Folder" (default): folder path missing
+[6VKB3] 2023/12/25 17:12:39 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/25 17:12:39 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/25 17:12:39 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/25 17:12:39 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/25 17:12:39 INFO: QUIC listener ([::]:22000) starting
+[6VKB3] 2023/12/25 17:12:39 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/25 17:15:36 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/25 17:15:36 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/25 17:15:36 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/25 17:15:37 INFO: Single thread SHA256 performance is 1871 MB/s using minio/sha256-simd (1859 MB/s using crypto/sha256).
+[6VKB3] 2023/12/25 17:15:37 INFO: Hashing performance is 1114.34 MB/s
+[6VKB3] 2023/12/25 17:15:37 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/25 17:15:37 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/25 17:15:37 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/25 17:15:37 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[6VKB3] 2023/12/25 17:15:37 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/25 17:15:37 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/25 17:15:37 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/25 17:15:37 WARNING: Failed to create folder root directory mkdir \\?\C:\Users\Leo: Access is denied.
+[6VKB3] 2023/12/25 17:15:37 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/25 17:15:37 INFO: Failed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/25 17:15:37 WARNING: Error on folder "Default Folder" (default): folder path missing
+[6VKB3] 2023/12/25 17:15:37 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/25 17:15:37 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/25 17:15:37 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/25 17:15:37 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/25 17:15:37 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/25 17:15:37 INFO: TCP listener ([::]:22000) starting
+[6VKB3] 2023/12/25 17:15:37 INFO: QUIC listener ([::]:22000) starting
+[6VKB3] 2023/12/25 17:15:38 INFO: QUIC listener ([::]:22000) shutting down
+[6VKB3] 2023/12/25 17:15:38 INFO: Detected 0 NAT services
+[6VKB3] 2023/12/25 17:15:38 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) shutting down
+[6VKB3] 2023/12/25 17:15:38 INFO: TCP listener ([::]:22000) shutting down
+[6VKB3] 2023/12/25 17:15:38 INFO: Exiting
+[start] 2023/12/25 17:15:39 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/25 17:15:39 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/25 17:15:39 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/25 17:15:40 INFO: Single thread SHA256 performance is 1845 MB/s using minio/sha256-simd (1826 MB/s using crypto/sha256).
+[6VKB3] 2023/12/25 17:15:41 INFO: Hashing performance is 1090.73 MB/s
+[6VKB3] 2023/12/25 17:15:41 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/25 17:15:41 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[6VKB3] 2023/12/25 17:15:41 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/25 17:15:41 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/25 17:15:41 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/25 17:15:41 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/25 17:15:41 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/25 17:15:41 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/25 17:15:41 WARNING: Failed to create folder root directory mkdir \\?\C:\Users\Leo: Access is denied.
+[6VKB3] 2023/12/25 17:15:41 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/25 17:15:41 INFO: Failed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/25 17:15:41 WARNING: Error on folder "Default Folder" (default): folder path missing
+[6VKB3] 2023/12/25 17:15:41 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/25 17:15:41 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/25 17:15:41 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/25 17:15:41 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/25 17:15:41 INFO: QUIC listener ([::]:22000) starting
+[6VKB3] 2023/12/25 17:15:41 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/25 17:15:50 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/25 17:15:50 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/25 17:15:50 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/25 17:15:51 INFO: Single thread SHA256 performance is 1809 MB/s using minio/sha256-simd (1801 MB/s using crypto/sha256).
+[6VKB3] 2023/12/25 17:15:51 INFO: Hashing performance is 1079.57 MB/s
+[6VKB3] 2023/12/25 17:15:51 INFO: Overall send rate is unlimited, receive rate is unlimited
+[6VKB3] 2023/12/25 17:15:51 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[6VKB3] 2023/12/25 17:15:51 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[6VKB3] 2023/12/25 17:15:51 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/25 17:15:51 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/25 17:15:51 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[6VKB3] 2023/12/25 17:15:51 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[6VKB3] 2023/12/25 17:15:51 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[6VKB3] 2023/12/25 17:15:51 WARNING: Failed to create folder root directory mkdir \\?\C:\Users\Leo: Access is denied.
+[6VKB3] 2023/12/25 17:15:51 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[6VKB3] 2023/12/25 17:15:51 INFO: Failed initial scan of sendreceive folder "Default Folder" (default)
+[6VKB3] 2023/12/25 17:15:51 WARNING: Error on folder "Default Folder" (default): folder path missing
+[6VKB3] 2023/12/25 17:15:51 INFO: GUI and API listening on 127.0.0.1:8384
+[6VKB3] 2023/12/25 17:15:51 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[6VKB3] 2023/12/25 17:15:51 INFO: My name is "DESKTOP-G15GNSB"
+[6VKB3] 2023/12/25 17:15:51 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[6VKB3] 2023/12/25 17:15:51 INFO: QUIC listener ([::]:22000) starting
+[6VKB3] 2023/12/25 17:15:51 INFO: TCP listener ([::]:22000) starting

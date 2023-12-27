@@ -72,3 +72,38 @@
 [XQF4E] 2023/12/20 11:15:36 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
 [XQF4E] 2023/12/20 11:15:36 INFO: TCP listener ([::]:63287) starting
 [XQF4E] 2023/12/20 11:15:36 INFO: QUIC listener ([::]:63287) starting
+[start] 2023/12/25 16:35:07 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/25 16:35:07 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/25 16:35:07 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[start] 2023/12/25 16:55:30 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/25 16:55:30 INFO: Automatic upgrade is always enabled for candidate releases.
+[start] 2023/12/25 17:05:09 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/25 17:05:09 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/25 17:05:09 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[start] 2023/12/25 17:07:04 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/25 17:07:04 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/25 17:07:04 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/25 17:07:05 INFO: Single thread SHA256 performance is 1781 MB/s using minio/sha256-simd (1767 MB/s using crypto/sha256).
+[start] 2023/12/25 17:12:22 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/25 17:12:22 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/25 17:12:23 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/25 17:12:24 INFO: Single thread SHA256 performance is 1802 MB/s using minio/sha256-simd (1794 MB/s using crypto/sha256).
+[XQF4E] 2023/12/25 17:12:24 INFO: Hashing performance is 1057.45 MB/s
+[XQF4E] 2023/12/25 17:12:24 INFO: Overall send rate is unlimited, receive rate is unlimited
+[XQF4E] 2023/12/25 17:12:24 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[XQF4E] 2023/12/25 17:12:24 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[XQF4E] 2023/12/25 17:12:24 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[XQF4E] 2023/12/25 17:12:24 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[XQF4E] 2023/12/25 17:12:24 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[XQF4E] 2023/12/25 17:12:24 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[XQF4E] 2023/12/25 17:12:24 WARNING: Failed to create folder root directory mkdir \\?\C:\Users\Leo: Access is denied.
+[XQF4E] 2023/12/25 17:12:24 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[XQF4E] 2023/12/25 17:12:24 INFO: Failed initial scan of sendreceive folder "Default Folder" (default)
+[XQF4E] 2023/12/25 17:12:24 WARNING: Error on folder "Default Folder" (default): folder path missing
+[XQF4E] 2023/12/25 17:12:24 INFO: GUI and API listening on 127.0.0.1:8384
+[XQF4E] 2023/12/25 17:12:24 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[XQF4E] 2023/12/25 17:12:24 INFO: My name is "DESKTOP-G15GNSB"
+[XQF4E] 2023/12/25 17:12:24 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[XQF4E] 2023/12/25 17:12:24 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[XQF4E] 2023/12/25 17:12:25 INFO: TCP listener ([::]:63287) starting
+[XQF4E] 2023/12/25 17:12:25 INFO: QUIC listener ([::]:63287) starting
