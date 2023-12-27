@@ -14,8 +14,8 @@ import (
 
 func Test_PostError_ShouldAddANewErrorMessage_ToSystem(t *testing.T) {
 	newErrorMessage := "Error message for testing api"
-	AddNewErrorMessage_ThroughEndpoint(t, newErrorMessage)
-	logfileErrors, err := ParseLogFileForErrors("../api-test-home/syncthing.log")
+	AddNewErrorMessage_ThroughEndpoint(t, "../api-test-home/error-post", newErrorMessage)
+	logfileErrors, err := ParseLogFileForErrors("../api-test-home/error-post/syncthing.log")
 	if err != nil {
 		t.Fatalf("Could not parse log file: %v", err)
 	}
@@ -25,9 +25,8 @@ func Test_PostError_ShouldAddANewErrorMessage_ToSystem(t *testing.T) {
 	}
 }
 
-func AddNewErrorMessage_ThroughEndpoint(t *testing.T, newErrorMessage string) {
+func AddNewErrorMessage_ThroughEndpoint(t *testing.T, homePath, newErrorMessage string) {
 	binPath := "../../bin"
-	homePath := "../api-test-home"
 
 	address, apikey, err := test_api.GetAddressAndApiKey(binPath, homePath)
 	if err != nil {

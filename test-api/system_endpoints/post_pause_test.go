@@ -36,7 +36,7 @@ func Test_PostPause_ShouldSuccessfully_PauseAllDevices(t *testing.T) {
 }
 
 func Test_PostPause_WithDeviceId_ShouldSuccesfully_Pause(t *testing.T) {
-	configFile, err := os.Open("../api-test-home/config.xml")
+	configFile, err := os.Open("../api-test-home/pause/config.xml")
 	if err != nil {
 		t.Fatalf("Could not open config file: %v", err)
 	}
@@ -82,7 +82,7 @@ func Test_PostPause_WithDeviceId_ShouldSuccesfully_Pause(t *testing.T) {
 
 func MakePostRequestToPauseEndpoint(deviceIdParam string, t *testing.T) *http.Response {
 	binPath := "../../bin"
-	homePath := "../api-test-home"
+	homePath := "../api-test-home/pause"
 
 	address, apikey, err := test_api.GetAddressAndApiKey(binPath, homePath)
 	if err != nil {

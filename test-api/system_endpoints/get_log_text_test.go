@@ -26,7 +26,7 @@ func Test_GetLogTxt_ShouldReturnLogInTextFormat(t *testing.T) {
 			}
 		}
 	}
-	fileSystemLog, err := ParseLogFilePlain("../api-test-home/syncthing.log")
+	fileSystemLog, err := ParseLogFilePlain("../api-test-home/log-text/syncthing.log")
 	if err != nil {
 		t.Fatalf("Could not parse log file: %v", err)
 	}
@@ -48,7 +48,7 @@ func Test_GetLogTxt_ShouldReturnLogInTextFormat(t *testing.T) {
 
 func GetLogInTextFormat(t *testing.T) []string {
 	binPath := "../../bin"
-	homePath := "../api-test-home"
+	homePath := "../api-test-home/log-text"
 
 	address, apikey, err := test_api.GetAddressAndApiKey(binPath, homePath)
 	if err != nil {

@@ -24,7 +24,7 @@ type ErrorInfo struct {
 
 func Test_GetError_ShouldReturnSystemListOfErrors(t *testing.T) {
 	var apiListErrors = GetErrorJsonData_From_GetError_Endpoint(t)
-	logfileErrors, err := ParseLogFileForErrors("../api-test-home/syncthing.log")
+	logfileErrors, err := ParseLogFileForErrors("../api-test-home/error/syncthing.log")
 	if err != nil {
 		t.Fatalf("Could not parse log file: %v", err)
 	}
@@ -44,7 +44,7 @@ func Test_GetError_ShouldReturnSystemListOfErrors(t *testing.T) {
 
 func GetErrorJsonData_From_GetError_Endpoint(t *testing.T) ListOfErrors {
 	binPath := "../../bin"
-	homePath := "../api-test-home"
+	homePath := "../api-test-home/error"
 
 	address, apikey, err := test_api.GetAddressAndApiKey(binPath, homePath)
 	if err != nil {

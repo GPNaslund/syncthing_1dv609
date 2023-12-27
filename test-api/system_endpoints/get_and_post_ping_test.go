@@ -33,7 +33,7 @@ func Test_PostPing_ShouldReturn_PingPongObject(t *testing.T) {
 
 func CallPingEndpoint(method string, t *testing.T) PingPong {
 	binPath := "../../bin"
-	homePath := "../api-test-home"
+	homePath := "../api-test-home/pingpong"
 
 	address, apikey, err := test_api.GetAddressAndApiKey(binPath, homePath)
 	if err != nil {
@@ -48,12 +48,6 @@ func CallPingEndpoint(method string, t *testing.T) PingPong {
 	if err != nil {
 		t.Fatal("could not start syncthing process")
 	}
-
-	defer func() {
-		if err := cmd.Process.Kill(); err != nil {
-			log.Fatalf("Warning: Error killing Syncthing process: %v", err)
-		}
-	}()
 
 	baseURL := "http://" + address
 
@@ -77,6 +71,12 @@ SyncthingReady:
 	response, err := test_api.MakeHttpRequest(method, apikey, pingUrl)
 	if err != nil {
 		t.Fatalf("Could not make http request: %v", err)
+	}
+
+	if err := cmd.Process.Kill(); err != nil {
+		log.Fatalf("Warning: Error killing Syncthing process: %v", err)
+	} else {
+		log.Printf("Syncthing has shut down")
 	}
 
 	var pingPong PingPong

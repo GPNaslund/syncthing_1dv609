@@ -46,7 +46,7 @@ func Test_GetPaths_ShouldReturn_ConfigPaths(t *testing.T) {
 
 func MakeGetCallToPathsEndpoint(t *testing.T) PathData {
 	binPath := "../../bin"
-	homePath := "../api-test-home"
+	homePath := "../api-test-home/paths"
 
 	address, apikey, err := test_api.GetAddressAndApiKey(binPath, homePath)
 	if err != nil {

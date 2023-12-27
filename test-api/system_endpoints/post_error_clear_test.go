@@ -11,13 +11,13 @@ import (
 )
 
 func Test_ErrorClear_ShouldClearLogFromErrors(t *testing.T) {
-	AddNewErrorMessage_ThroughEndpoint(t, "Error message for test clear endpoint")
-	listOfLogErrorsBefore, err := ParseLogFileForErrors("../api-test-home/syncthing.log")
+	AddNewErrorMessage_ThroughEndpoint(t, "../api-test-home/error-clear", "Error message for test clear endpoint")
+	listOfLogErrorsBefore, err := ParseLogFileForErrors("../api-test-home/error-clear/syncthing.log")
 	if err != nil {
 		t.Fatalf("Could not parse log file for errors: %v", err)
 	}
 	Call_ErrorClear_Endpoint(t)
-	listOfLogErrorsAfter, err := ParseLogFileForErrors("../api-test-home/syncthing.log")
+	listOfLogErrorsAfter, err := ParseLogFileForErrors("../api-test-home/error-clear/syncthing.log")
 	if err != nil {
 		t.Fatalf("Could not parse log file for errors: %v", err)
 	}
@@ -33,7 +33,7 @@ func Test_ErrorClear_ShouldClearLogFromErrors(t *testing.T) {
 
 func Call_ErrorClear_Endpoint(t *testing.T) {
 	binPath := "../../bin"
-	homePath := "../api-test-home"
+	homePath := "../api-test-home/error-clear"
 
 	address, apikey, err := test_api.GetAddressAndApiKey(binPath, homePath)
 	if err != nil {

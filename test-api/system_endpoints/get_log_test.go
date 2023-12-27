@@ -30,7 +30,7 @@ func Test_GetLog_ShouldReturnRecentLogEntries_InJsonFormat(t *testing.T) {
 			apiLogs = append(apiLogs, log)
 		}
 	}
-	logFileEntries, err := ParseLogFile("../api-test-home/syncthing.log")
+	logFileEntries, err := ParseLogFile("../api-test-home/log/syncthing.log")
 	if err != nil {
 		t.Fatalf("Could not parse local log file %v", err)
 	}
@@ -53,7 +53,7 @@ func Test_GetLog_ShouldReturnRecentLogEntries_InJsonFormat(t *testing.T) {
 
 func GetLog(t *testing.T) ListOfLogs {
 	binPath := "../../bin"
-	homePath := "../api-test-home"
+	homePath := "../api-test-home/log"
 
 	address, apikey, err := test_api.GetAddressAndApiKey(binPath, homePath)
 	if err != nil {

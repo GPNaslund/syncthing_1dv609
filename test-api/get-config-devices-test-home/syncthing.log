@@ -107,3 +107,104 @@
 [XQF4E] 2023/12/25 17:12:24 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
 [XQF4E] 2023/12/25 17:12:25 INFO: TCP listener ([::]:63287) starting
 [XQF4E] 2023/12/25 17:12:25 INFO: QUIC listener ([::]:63287) starting
+[start] 2023/12/27 12:14:10 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 12:14:10 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 12:14:10 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/27 12:14:11 INFO: Single thread SHA256 performance is 1863 MB/s using crypto/sha256 (1859 MB/s using minio/sha256-simd).
+[XQF4E] 2023/12/27 12:14:12 INFO: Hashing performance is 1096.26 MB/s
+[XQF4E] 2023/12/27 12:14:12 INFO: Overall send rate is unlimited, receive rate is unlimited
+[XQF4E] 2023/12/27 12:14:12 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[XQF4E] 2023/12/27 12:14:12 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[XQF4E] 2023/12/27 12:14:12 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[XQF4E] 2023/12/27 12:14:12 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[XQF4E] 2023/12/27 12:14:12 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[XQF4E] 2023/12/27 12:14:12 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[XQF4E] 2023/12/27 12:14:12 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[XQF4E] 2023/12/27 12:14:12 WARNING: Failed to create folder root directory mkdir \\?\C:\Users\Leo: Access is denied.
+[XQF4E] 2023/12/27 12:14:12 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[XQF4E] 2023/12/27 12:14:12 INFO: Failed initial scan of sendreceive folder "Default Folder" (default)
+[XQF4E] 2023/12/27 12:14:12 WARNING: Error on folder "Default Folder" (default): folder path missing
+[XQF4E] 2023/12/27 12:14:12 INFO: QUIC listener ([::]:63287) starting
+[XQF4E] 2023/12/27 12:14:12 INFO: TCP listener ([::]:63287) starting
+[XQF4E] 2023/12/27 12:14:12 INFO: GUI and API listening on 127.0.0.1:8384
+[XQF4E] 2023/12/27 12:14:12 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[XQF4E] 2023/12/27 12:14:12 INFO: My name is "DESKTOP-G15GNSB"
+[XQF4E] 2023/12/27 12:14:12 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[start] 2023/12/27 12:55:22 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 12:55:22 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 12:55:24 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/27 12:55:24 INFO: Single thread SHA256 performance is 1877 MB/s using crypto/sha256 (1863 MB/s using minio/sha256-simd).
+[XQF4E] 2023/12/27 12:55:25 INFO: Hashing performance is 1102.35 MB/s
+[XQF4E] 2023/12/27 12:55:25 INFO: Overall send rate is unlimited, receive rate is unlimited
+[XQF4E] 2023/12/27 12:55:25 INFO: Anonymous usage reporting is always enabled for candidate releases.
+[XQF4E] 2023/12/27 12:55:25 INFO: Relay listener (dynamic+https://relays.syncthing.net/endpoint) starting
+[XQF4E] 2023/12/27 12:55:25 INFO: Using discovery mechanism: global discovery server https://discovery.syncthing.net/v2/?noannounce&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[XQF4E] 2023/12/27 12:55:25 INFO: Using discovery mechanism: global discovery server https://discovery-v4.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[XQF4E] 2023/12/27 12:55:25 INFO: Using discovery mechanism: global discovery server https://discovery-v6.syncthing.net/v2/?nolookup&id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW
+[XQF4E] 2023/12/27 12:55:25 INFO: Using discovery mechanism: IPv4 local broadcast discovery on port 21027
+[XQF4E] 2023/12/27 12:55:25 INFO: Using discovery mechanism: IPv6 local multicast discovery on address [ff12::8384]:21027
+[XQF4E] 2023/12/27 12:55:25 WARNING: Failed to create folder root directory mkdir \\?\C:\Users\Leo: Access is denied.
+[XQF4E] 2023/12/27 12:55:25 INFO: Ready to synchronize "Default Folder" (default) (sendreceive)
+[XQF4E] 2023/12/27 12:55:25 INFO: Failed initial scan of sendreceive folder "Default Folder" (default)
+[XQF4E] 2023/12/27 12:55:25 WARNING: Error on folder "Default Folder" (default): folder path missing
+[XQF4E] 2023/12/27 12:55:25 INFO: GUI and API listening on 127.0.0.1:8384
+[XQF4E] 2023/12/27 12:55:25 INFO: Access the GUI via the following URL: http://127.0.0.1:8384/
+[XQF4E] 2023/12/27 12:55:25 INFO: My name is "DESKTOP-G15GNSB"
+[XQF4E] 2023/12/27 12:55:25 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
+[XQF4E] 2023/12/27 12:55:25 INFO: TCP listener ([::]:63287) starting
+[XQF4E] 2023/12/27 12:55:25 INFO: QUIC listener ([::]:63287) starting
+[start] 2023/12/27 13:00:45 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 13:00:45 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 13:00:45 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[start] 2023/12/27 13:02:21 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 13:02:21 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 13:02:21 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/27 13:02:22 INFO: Single thread SHA256 performance is 1830 MB/s using crypto/sha256 (1800 MB/s using minio/sha256-simd).
+[start] 2023/12/27 14:59:59 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 14:59:59 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 14:59:59 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[start] 2023/12/27 15:03:35 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 15:03:35 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 15:03:35 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/27 15:03:36 INFO: Single thread SHA256 performance is 1874 MB/s using crypto/sha256 (1831 MB/s using minio/sha256-simd).
+[start] 2023/12/27 16:18:19 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:18:19 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 16:18:20 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[start] 2023/12/27 16:19:31 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:19:31 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 16:19:31 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/27 16:19:31 INFO: Single thread SHA256 performance is 1849 MB/s using minio/sha256-simd (1811 MB/s using crypto/sha256).
+[start] 2023/12/27 16:20:25 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:20:25 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 16:20:25 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/27 16:20:26 INFO: Single thread SHA256 performance is 1852 MB/s using crypto/sha256 (1847 MB/s using minio/sha256-simd).
+[start] 2023/12/27 16:21:08 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:21:08 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 16:21:08 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/27 16:21:09 INFO: Single thread SHA256 performance is 1835 MB/s using minio/sha256-simd (1815 MB/s using crypto/sha256).
+[start] 2023/12/27 16:21:52 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:21:52 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 16:21:52 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/27 16:21:53 INFO: Single thread SHA256 performance is 1807 MB/s using crypto/sha256 (1803 MB/s using minio/sha256-simd).
+[start] 2023/12/27 16:22:38 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:22:38 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 16:22:38 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/27 16:22:39 INFO: Single thread SHA256 performance is 1824 MB/s using minio/sha256-simd (1822 MB/s using crypto/sha256).
+[start] 2023/12/27 16:25:20 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:25:20 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 16:25:20 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[start] 2023/12/27 16:27:50 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:27:50 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 16:27:50 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/27 16:27:51 INFO: Single thread SHA256 performance is 1794 MB/s using minio/sha256-simd (1762 MB/s using crypto/sha256).
+[start] 2023/12/27 16:29:11 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:29:11 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 16:29:11 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/27 16:29:12 INFO: Single thread SHA256 performance is 1824 MB/s using crypto/sha256 (1787 MB/s using minio/sha256-simd).
+[start] 2023/12/27 16:31:49 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:31:49 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 16:31:49 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[start] 2023/12/27 16:33:37 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:33:37 INFO: Automatic upgrade is always enabled for candidate releases.
+[XQF4E] 2023/12/27 16:33:37 INFO: My ID: XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ
+[XQF4E] 2023/12/27 16:33:38 INFO: Single thread SHA256 performance is 1819 MB/s using crypto/sha256 (1800 MB/s using minio/sha256-simd).

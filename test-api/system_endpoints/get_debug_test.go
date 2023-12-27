@@ -55,7 +55,7 @@ var DefaultDebugInfo = DebugInfo{
 
 func Test_GetDebug_ShouldReturn_DebugInformation(t *testing.T) {
 	binPath := "../../bin"
-	homePath := "../api-test-home"
+	homePath := "../api-test-home/debug"
 
 	address, apikey, err := test_api.GetAddressAndApiKey(binPath, homePath)
 	if err != nil {

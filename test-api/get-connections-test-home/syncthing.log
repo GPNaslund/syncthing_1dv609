@@ -1516,3 +1516,122 @@
 [6VKB3] 2023/12/25 17:15:51 INFO: Device H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP is "Phone" at [dynamic]
 [6VKB3] 2023/12/25 17:15:51 INFO: QUIC listener ([::]:22000) starting
 [6VKB3] 2023/12/25 17:15:51 INFO: TCP listener ([::]:22000) starting
+[start] 2023/12/27 12:14:12 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 12:14:12 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 12:14:12 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/27 12:14:24 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 12:14:24 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 12:14:24 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/27 12:14:25 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 12:14:25 INFO: Automatic upgrade is always enabled for candidate releases.
+[start] 2023/12/27 12:14:25 WARNING: Error opening database: The process cannot access the file because it is being used by another process. (is another instance of Syncthing running?)
+[start] 2023/12/27 12:55:25 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 12:55:25 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 12:55:25 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/27 12:55:26 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 12:55:26 INFO: Automatic upgrade is always enabled for candidate releases.
+[start] 2023/12/27 12:55:26 WARNING: Error opening database: The process cannot access the file because it is being used by another process. (is another instance of Syncthing running?)
+[start] 2023/12/27 12:55:27 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 12:55:27 INFO: Automatic upgrade is always enabled for candidate releases.
+[start] 2023/12/27 12:55:27 WARNING: Error opening database: The process cannot access the file because it is being used by another process. (is another instance of Syncthing running?)
+[start] 2023/12/27 13:00:46 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 13:00:46 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 13:00:46 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/27 13:00:58 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 13:00:58 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 13:00:58 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 13:00:59 INFO: Single thread SHA256 performance is 1860 MB/s using crypto/sha256 (1842 MB/s using minio/sha256-simd).
+[start] 2023/12/27 13:00:59 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 13:00:59 INFO: Automatic upgrade is always enabled for candidate releases.
+[start] 2023/12/27 13:00:59 WARNING: Error opening database: The process cannot access the file because it is being used by another process. (is another instance of Syncthing running?)
+[start] 2023/12/27 13:02:22 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 13:02:22 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 13:02:22 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/27 13:02:34 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 13:02:34 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 13:02:34 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 13:02:35 INFO: Single thread SHA256 performance is 1850 MB/s using minio/sha256-simd (1834 MB/s using crypto/sha256).
+[start] 2023/12/27 13:02:35 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 13:02:35 INFO: Automatic upgrade is always enabled for candidate releases.
+[start] 2023/12/27 13:02:35 WARNING: Error opening database: The process cannot access the file because it is being used by another process. (is another instance of Syncthing running?)
+[start] 2023/12/27 15:00:00 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 15:00:00 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 15:00:01 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/27 15:00:13 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 15:00:13 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 15:00:13 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 15:00:14 INFO: Single thread SHA256 performance is 1845 MB/s using minio/sha256-simd (1838 MB/s using crypto/sha256).
+[start] 2023/12/27 15:00:14 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 15:00:14 INFO: Automatic upgrade is always enabled for candidate releases.
+[start] 2023/12/27 15:00:14 WARNING: Error opening database: The process cannot access the file because it is being used by another process. (is another instance of Syncthing running?)
+[start] 2023/12/27 15:03:36 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 15:03:36 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 15:03:36 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 15:03:37 INFO: Single thread SHA256 performance is 1873 MB/s using minio/sha256-simd (1855 MB/s using crypto/sha256).
+[start] 2023/12/27 15:03:48 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 15:03:48 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 15:03:48 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 15:03:49 INFO: Single thread SHA256 performance is 1856 MB/s using crypto/sha256 (1818 MB/s using minio/sha256-simd).
+[start] 2023/12/27 15:03:49 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 15:03:49 INFO: Automatic upgrade is always enabled for candidate releases.
+[start] 2023/12/27 15:03:49 WARNING: Error opening database: The process cannot access the file because it is being used by another process. (is another instance of Syncthing running?)
+[start] 2023/12/27 16:18:20 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:18:20 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:18:21 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/27 16:19:32 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:19:32 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:19:32 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/27 16:20:26 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:20:26 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:20:26 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 16:20:27 INFO: Single thread SHA256 performance is 1811 MB/s using crypto/sha256 (1800 MB/s using minio/sha256-simd).
+[start] 2023/12/27 16:21:09 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:21:09 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:21:09 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 16:21:10 INFO: Single thread SHA256 performance is 1862 MB/s using minio/sha256-simd (1842 MB/s using crypto/sha256).
+[start] 2023/12/27 16:21:53 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:21:53 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:21:53 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 16:21:54 INFO: Single thread SHA256 performance is 1817 MB/s using crypto/sha256 (1773 MB/s using minio/sha256-simd).
+[start] 2023/12/27 16:22:39 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:22:39 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:22:39 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 16:22:40 INFO: Single thread SHA256 performance is 1827 MB/s using minio/sha256-simd (1823 MB/s using crypto/sha256).
+[start] 2023/12/27 16:25:21 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:25:21 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:25:21 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/27 16:27:51 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:27:51 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:27:51 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 16:27:52 INFO: Single thread SHA256 performance is 1840 MB/s using crypto/sha256 (1827 MB/s using minio/sha256-simd).
+[start] 2023/12/27 16:29:12 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:29:12 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:29:12 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 16:29:13 INFO: Single thread SHA256 performance is 1819 MB/s using minio/sha256-simd (1819 MB/s using crypto/sha256).
+[start] 2023/12/27 16:29:30 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:29:30 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:29:30 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 16:29:31 INFO: Single thread SHA256 performance is 1789 MB/s using minio/sha256-simd (1786 MB/s using crypto/sha256).
+[start] 2023/12/27 16:29:31 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:29:31 INFO: Automatic upgrade is always enabled for candidate releases.
+[start] 2023/12/27 16:29:31 WARNING: Error opening database: The process cannot access the file because it is being used by another process. (is another instance of Syncthing running?)
+[start] 2023/12/27 16:31:50 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:31:50 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:31:50 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/27 16:32:10 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:32:10 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:32:10 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 16:32:11 INFO: Single thread SHA256 performance is 1781 MB/s using crypto/sha256 (1770 MB/s using minio/sha256-simd).
+[start] 2023/12/27 16:32:11 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:32:11 INFO: Automatic upgrade is always enabled for candidate releases.
+[start] 2023/12/27 16:32:11 WARNING: Error opening database: The process cannot access the file because it is being used by another process. (is another instance of Syncthing running?)
+[start] 2023/12/27 16:33:38 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:33:38 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:33:38 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[start] 2023/12/27 16:33:58 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:33:58 INFO: Automatic upgrade is always enabled for candidate releases.
+[6VKB3] 2023/12/27 16:33:58 INFO: My ID: 6VKB3M2-EN7G6J6-5SHPI3Y-GEWMIAJ-DJJSQLY-CKJFXQ3-DMUGVK7-X46RAQU
+[6VKB3] 2023/12/27 16:33:59 INFO: Single thread SHA256 performance is 1820 MB/s using crypto/sha256 (1809 MB/s using minio/sha256-simd).
+[start] 2023/12/27 16:33:59 INFO: syncthing v1.27.2-rc.1.dev.2.g5d0ca193.dirty "Gold Grasshopper" (go1.21.5 windows-amd64) LAPTOP-OQQDAMLV\gusta@LAPTOP-OQQDAMLV 2023-12-13 11:35:59 UTC [purego]
+[start] 2023/12/27 16:33:59 INFO: Automatic upgrade is always enabled for candidate releases.
+[start] 2023/12/27 16:33:59 WARNING: Error opening database: The process cannot access the file because it is being used by another process. (is another instance of Syncthing running?)

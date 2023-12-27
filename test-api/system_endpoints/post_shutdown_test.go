@@ -12,7 +12,7 @@ import (
 
 func Test_PostShutdown_ShouldCloseSyncthingInstance(t *testing.T) {
 	binPath := "../../bin"
-	homePath := "../api-test-home"
+	homePath := "../api-test-home/shutdown"
 
 	address, apikey, err := test_api.GetAddressAndApiKey(binPath, homePath)
 	if err != nil {

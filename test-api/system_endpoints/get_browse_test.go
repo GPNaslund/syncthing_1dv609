@@ -14,7 +14,7 @@ import (
 
 func Test_GetBrowse_ShouldReturn_ListOfDirectories(t *testing.T) {
 	binPath := "../../bin"
-	homePath := "../api-test-home"
+	homePath := "../api-test-home/browse"
 
 	address, apikey, err := test_api.GetAddressAndApiKey(binPath, homePath)
 	if err != nil {

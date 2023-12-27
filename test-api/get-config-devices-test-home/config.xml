@@ -40,7 +40,7 @@
             <maxTotalSize>4096</maxTotalSize>
         </xattrFilter>
     </folder>
-    <device id="XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ" name="DESKTOP-G15GNSB" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="">
+    <device id="H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP" name="Phone" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="">
         <address>dynamic</address>
         <paused>false</paused>
         <autoAcceptFolders>false</autoAcceptFolders>
@@ -51,7 +51,7 @@
         <remoteGUIPort>0</remoteGUIPort>
         <numConnections>0</numConnections>
     </device>
-    <device id="H67OXGJ-BSITBYE-MZ3BJPH-6BMIGIE-7PROEHT-6QYVQVI-C7INUEY-LPP6UQP" name="Phone" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="">
+    <device id="XQF4EQQ-RDZXUJT-NTZILHT-VOJTZCE-A2OLLBX-L6YUODL-UVC6AXK-KSPDJAQ" name="DESKTOP-G15GNSB" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="">
         <address>dynamic</address>
         <paused>false</paused>
         <autoAcceptFolders>false</autoAcceptFolders>
@@ -87,9 +87,9 @@
         <natLeaseMinutes>60</natLeaseMinutes>
         <natRenewalMinutes>30</natRenewalMinutes>
         <natTimeoutSeconds>10</natTimeoutSeconds>
-        <urAccepted>0</urAccepted>
+        <urAccepted>3</urAccepted>
         <urSeen>0</urSeen>
-        <urUniqueID></urUniqueID>
+        <urUniqueID>6j4RXsmM</urUniqueID>
         <urURL>https://data.syncthing.net/newdata</urURL>
         <urPostInsecurely>false</urPostInsecurely>
         <urInitialDelayS>1800</urInitialDelayS>
